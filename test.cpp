@@ -81,16 +81,9 @@ Result *testMany(Test tests[], int nTest, Generator generators[], int nGen)
     }
 
     int z = 0;
-    // Pair *p = spDist(MIN, MAX, I);
-    // // double a = (int)p->x;
-    // // double b = (int)p->y;
-
-    // for (int l = 0; l < 100; l++)
-    // {
-    //     int ln = spDistLength(MIN, MAX, l);
     for (int i = 0; i < nGen; i++)
     {
-        int ln = 1000 * i;
+        int ln = 1000 * (i + 1);
         char *str = createString(ln);
         generators[i].generator(str, ln);
         for (int j = 0; j < nTest; j++)

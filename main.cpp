@@ -52,7 +52,7 @@ int main()
     std::ofstream myfile;
     myfile.open("example.csv");
     myfile << "label,result,time,size\n";
-    for (int i = 0; i < 5; i++)
+    for (int i = 0; i < 4; i++)
     {
 
         myfile << results[i].label;
