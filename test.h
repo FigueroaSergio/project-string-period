@@ -37,6 +37,6 @@ Result takeTime(int (*func)(string str), string str);
 
 Result test(int (*func)(string str), string str);
 
-Result *testMany(Test tests[], int nTest, Generator generators[], int nGen);
+void testMany(Test tests[], int nTest, Generator generators[], int nGen);
 
 #endif

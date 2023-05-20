@@ -6,11 +6,10 @@
 
 using namespace std;
 
-Pair spDist(int bottom, int top, int i)
+Pair spDist(int min, int max, int iterazioni)
 {
-    double root = 1. / i;
-    return {x : (double)bottom,
-            y : pow(((double)top / (double)bottom), (1. / i))};
+    return {x : (double)min,
+            y : pow(((double)max / (double)min), (1. / iterazioni))};
 }
 
 int spDistLength(double a, double b, int i)

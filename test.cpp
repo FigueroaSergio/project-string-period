@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <chrono>
 #include <string>
-
+#include <fstream>
 #include "utils.h"
 #include "test.h"
 
@@ -11,8 +11,8 @@ using namespace std;
 using namespace std::chrono;
 
 #define MIN 1000
-#define MAX 5000
-#define I 100
+#define MAX 50000
+#define ITERATIONS 100
 double getResolution()
 {
     steady_clock::time_point start = steady_clock::now();
@@ -68,45 +68,41 @@ Result test(int (*func)(string str), string str)
     return takeTime(func, str, T_min);
 }
 
-Result *testMany(Test tests[], int nTest, Generator generators[], int nGen)
+void testMany(Test tests[], int nTest, Generator generators[], int nGen)
 {
 
-    int size = (nGen * nTest);
-    // Result *results = (Result *)(malloc(size * sizeof(Result)));
-    Result *results = new Result[size];
-    int p[12];
-    if (results == nullptr)
+    std::ofstream myfile;
+    myfile.open("example.csv");
+    myfile << "label,string,result,time,size\n";
+    Pair p = spDist(MIN, MAX, ITERATIONS);
+    double a = p.x;
+    double b = p.y;
+    for (int t = 0; t < 4; t++)
     {
-        exit(137);
-    }
-
-    int z = 0;
-    for (int i = 0; i < nGen; i++)
-    {
-        int ln = 1000 * (i + 1);
-        char *str = createString(ln);
-        generators[i].generator(str, ln);
-        for (int j = 0; j < nTest; j++)
+        for (int z = 0; z < ITERATIONS; z++)
         {
-            Result r = test(tests[j].func, str);
+            int ln = spDistLength(a, b, z); // (500000/)
+            for (int i = 0; i < nGen; i++)
+            {
 
-            r.label = tests[j].label;
-            results[z].result = r.result;
-            results[z].label = r.label + ", " + generators[i].label;
-            results[z].time = r.time;
-            results[z].size = r.size;
-            z++;
+                char *str = createString(ln);
+                generators[i].generator(str, ln);
+                for (int j = 0; j < nTest; j++)
+                {
+                    Result r = test(tests[j].func, str);
+
+                    myfile << tests[j].label + ", " + generators[i].label;
+                    myfile << ",";
+                    myfile << r.result;
+                    myfile << ",";
+                    myfile << r.time;
+                    myfile << ",";
+                    myfile << r.size;
+                    myfile << "\n";
+                }
+
+                free(str);
+            }
         }
-
-        free(str);
     }
-    // }
-    for (int i = 0; i < size; i++)
-    {
-        printResult(&results[i]);
-    }
-
-    // free(results);
-
-    return results;
 }

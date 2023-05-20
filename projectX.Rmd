@@ -1,0 +1,56 @@
+---
+title: "periodo"
+output: html_document
+date: "2023-05-20"
+---
+
+```{r setup, include=FALSE}
+library('tidyverse')
+example <- read.csv("~/universita/algoritmi/c/project/example.csv")
+```
+
+
+```{r cars}
+tail(example)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+example %>%
+  filter(grepl("fill with period", string)) %>%
+  mutate(ti= log(time), s= size)%>%
+  ggplot(aes(s,ti, color=label))+ 
+  geom_smooth()
+ # group_by(label, s) %>%
+ # summarise(t = mean(ti)) %>%
+  
+
+```
+```{r}
+example%>%  filter(grepl("fill with period", string)) %>%
+  filter(grepl("periodo naive", label)) %>%
+  ggplot(aes(size,time, group=size))+
+  geom_boxplot( )
+```
+
+```{r}
+example %>%
+  filter(grepl("fill random", string)) %>%
+  mutate(t= log(time), s= log(size))%>%
+  ggplot(aes(s,t, color=label))+ 
+  geom_point(size=2)+
+  geom_smooth()
+```
+
+
+```{r}
+
+example%>%
+  mutate(id=row_number()) %>%
+  ggplot(aes(id,size))+
+  geom_point()
+```
+
