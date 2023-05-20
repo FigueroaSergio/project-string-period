@@ -2,9 +2,6 @@
 #include <new>
 #include <math.h> /* pow */
 #include <cstdlib>
-
-using namespace std;
-
 #include "utils.h"
 
 using namespace std;
@@ -18,7 +15,7 @@ Pair spDist(int bottom, int top, int i)
 
 int spDistLength(double a, double b, int i)
 {
-    return a * pow(b, i);
+    return (int)(a * pow(b, i));
 }
 
 int randomNumber(int min, int max)

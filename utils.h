@@ -8,7 +8,7 @@ typedef struct Pair
 
 Pair spDist(int a, int b, int i);
 
-int spDistLength(int a, int b, int i);
+int spDistLength(double a, double b, int i);
 
 int randomNumber(int min, int max);
 

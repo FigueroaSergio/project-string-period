@@ -1,5 +1,7 @@
 #include <iostream>
 #include <string>
+#include <iostream>
+#include <fstream>
 
 #include "utils.h"
 #include "periodoNaive.h"
@@ -46,5 +48,23 @@ int main()
         {label : "fill with period", generator : fillWithPeriod}};
 
     Result *results = testMany(tests, 2, random, 2);
+
+    std::ofstream myfile;
+    myfile.open("example.csv");
+    myfile << "label,result,time,size\n";
+    for (int i = 0; i < 5; i++)
+    {
+
+        myfile << results[i].label;
+        myfile << ",";
+        myfile << results[i].result;
+        myfile << ",";
+        myfile << results[i].time;
+        myfile << ",";
+        myfile << results[i].size;
+        myfile << "\n";
+    }
+
+    myfile.close();
     return 0;
 }
