@@ -6,7 +6,7 @@ date: "2023-05-20"
 
 ```{r setup, include=FALSE}
 library('tidyverse')
-example <- read.csv("~/universita/algoritmi/c/project/example.csv")
+example <- read.csv("~/universita/algoritmi/c/project/example2.csv")
 ```
 
 
@@ -21,19 +21,26 @@ You can also embed plots, for example:
 ```{r pressure, echo=FALSE}
 example %>%
   filter(grepl("fill with period", string)) %>%
-  mutate(ti= log(time), s= size)%>%
+  mutate(ti= log(time), s= log(size))%>%
   ggplot(aes(s,ti, color=label))+ 
-  geom_smooth()
- # group_by(label, s) %>%
- # summarise(t = mean(ti)) %>%
+  geom_smooth()+geom_point()
+
   
 
 ```
 ```{r}
-example%>%  filter(grepl("fill with period", string)) %>%
-  filter(grepl("periodo naive", label)) %>%
-  ggplot(aes(size,time, group=size))+
-  geom_boxplot( )
+example%>%
+  ggplot(aes(result))+
+  geom_histogram()
+```
+```{r}
+example %>%
+  filter(grepl("fill with period", string)) %>%
+  mutate(ti= log(time))%>%
+   group_by(label, size) %>%
+  summarise(t = mean(ti)) %>%
+  ggplot(aes(log(size),t, color=label))+ 
+  geom_smooth()+geom_point()
 ```
 
 ```{r}

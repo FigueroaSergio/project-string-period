@@ -35,19 +35,18 @@ char *createString(int size)
 
 void fillRandom(char str[], int size)
 {
-    cout << size << endl;
     for (int i = 0; i < size; i++)
     {
-        int min = (int)'a';
-        str[i] = (char)randomNumber(min, min + 25);
+        int min = (int)'a', max = (int)'c';
+        str[i] = (char)randomNumber(min, max);
     }
 };
 
 void fillWithPeriod(char str[], int size)
 {
-    int period = randomNumber(1, 25);
-    int min = (int)'a';
-    int start = randomNumber(min, min + 25 - period);
+    int min = (int)'a', max = (int)'c';
+    int period = randomNumber(1, size);
+
     char *p;
     p = (char *)malloc((period + 2) * sizeof(char));
     ;
@@ -59,7 +58,7 @@ void fillWithPeriod(char str[], int size)
 
     for (int i = 0; i < period; i++)
     {
-        char c = (char)randomNumber(start, start + period);
+        char c = (char)randomNumber(min, max);
         p[i] = c;
     }
     for (int i = 0; i < size; i++)

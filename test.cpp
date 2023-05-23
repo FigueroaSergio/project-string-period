@@ -72,13 +72,14 @@ void testMany(Test tests[], int nTest, Generator generators[], int nGen)
 {
 
     std::ofstream myfile;
-    myfile.open("example.csv");
+    myfile.open("example3.csv");
     myfile << "label,string,result,time,size\n";
-    Pair p = spDist(MIN, MAX, ITERATIONS);
+    Pair p = spDist(MIN, MAX, ITERATIONS - 1);
     double a = p.x;
     double b = p.y;
-    for (int t = 0; t < 4; t++)
+    for (int t = 0; t < 2; t++)
     {
+        cout << t;
         for (int z = 0; z < ITERATIONS; z++)
         {
             int ln = spDistLength(a, b, z); // (500000/)
@@ -105,4 +106,5 @@ void testMany(Test tests[], int nTest, Generator generators[], int nGen)
             }
         }
     }
+    myfile.close();
 }

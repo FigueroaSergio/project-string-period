@@ -1,0 +1,2401 @@
+label,string,result,time,size
+periodo naive, fill random,999,0.0008531,1000
+periodo smart, fill random,999,2.61e-05,1000
+periodo naive, fill with period,23,1.67333e-05,23
+periodo smart, fill with period,23,2.76486e-06,23
+periodo naive, fill random,1063,0.00167125,1064
+periodo smart, fill random,1063,2.198e-05,1064
+periodo naive, fill with period,2,1.54154e-07,2
+periodo smart, fill with period,2,5.37433e-07,2
+periodo naive, fill random,1133,0.0017089,1133
+periodo smart, fill random,1133,2.23e-05,1133
+periodo naive, fill with period,90,5.66333e-05,90
+periodo smart, fill with period,90,3.33548e-06,90
+periodo naive, fill random,1206,0.00170685,1207
+periodo smart, fill random,1206,3.2875e-05,1207
+periodo naive, fill with period,97,0.00048985,1207
+periodo smart, fill with period,97,3.74667e-05,1207
+periodo naive, fill random,1285,0.00653275,1285
+periodo smart, fill random,1285,3.44889e-05,1285
+periodo naive, fill with period,96,0.0003682,1285
+periodo smart, fill with period,96,2.525e-05,1285
+periodo naive, fill random,1368,0.0049389,1368
+periodo smart, fill random,1368,3.3e-05,1368
+periodo naive, fill with period,97,0.00036415,1368
+periodo smart, fill with period,97,2.59e-05,1368
+periodo naive, fill random,1455,0.0053097,1457
+periodo smart, fill random,1455,3.50333e-05,1457
+periodo naive, fill with period,49,3.14e-05,49
+periodo smart, fill with period,49,2.13617e-06,49
+periodo naive, fill random,1551,0.0050931,1551
+periodo smart, fill random,1551,3.78167e-05,1551
+periodo naive, fill with period,97,0.00044255,1551
+periodo smart, fill with period,97,2.7375e-05,1551
+periodo naive, fill random,1651,0.0057803,1652
+periodo smart, fill random,1651,3.33667e-05,1652
+periodo naive, fill with period,97,0.00034485,1652
+periodo smart, fill with period,97,2.8075e-05,1652
+periodo naive, fill random,1758,0.0053529,1759
+periodo smart, fill random,1758,3.44333e-05,1759
+periodo naive, fill with period,14,4.79426e-07,14
+periodo smart, fill with period,14,8.96429e-07,14
+periodo naive, fill random,1871,0.00603125,1873
+periodo smart, fill random,1871,3.52e-05,1873
+periodo naive, fill with period,97,0.0003151,1873
+periodo smart, fill with period,97,2.97e-05,1873
+periodo naive, fill random,1993,0.0101525,1994
+periodo smart, fill random,1993,5.275e-05,1994
+periodo naive, fill with period,97,0.00056765,1994
+periodo smart, fill with period,97,5.4425e-05,1994
+periodo naive, fill random,2122,0.0090154,2123
+periodo smart, fill random,2122,3.96e-05,2123
+periodo naive, fill with period,98,0.00035765,2123
+periodo smart, fill with period,98,3.1425e-05,2123
+periodo naive, fill random,2261,0.006574,2261
+periodo smart, fill random,2261,8.88e-05,2261
+periodo naive, fill with period,96,0.0010715,2261
+periodo smart, fill with period,96,9.75333e-05,2261
+periodo naive, fill random,2407,0.021746,2408
+periodo smart, fill random,2407,7.7e-05,2408
+periodo naive, fill with period,98,0.001035,2408
+periodo smart, fill with period,98,5.245e-05,2408
+periodo naive, fill random,2564,0.0183583,2564
+periodo smart, fill random,2564,5.22667e-05,2564
+periodo naive, fill with period,96,0.0005333,2564
+periodo smart, fill with period,96,4.66e-05,2564
+periodo naive, fill random,2730,0.0199811,2730
+periodo smart, fill random,2730,5.815e-05,2730
+periodo naive, fill with period,96,0.0005045,2730
+periodo smart, fill with period,96,3.99667e-05,2730
+periodo naive, fill random,2907,0.0167141,2907
+periodo smart, fill random,2907,7.44e-05,2907
+periodo naive, fill with period,5,2.78333e-07,5
+periodo smart, fill with period,5,5.95833e-07,5
+periodo naive, fill random,3095,0.0201933,3095
+periodo smart, fill random,3095,7.11e-05,3095
+periodo naive, fill with period,96,0.00063705,3095
+periodo smart, fill with period,96,4.21667e-05,3095
+periodo naive, fill random,3295,0.0158792,3295
+periodo smart, fill random,3295,5.005e-05,3295
+periodo naive, fill with period,96,0.00043425,3295
+periodo smart, fill with period,96,4.33333e-05,3295
+periodo naive, fill random,3509,0.015035,3509
+periodo smart, fill random,3509,5.19e-05,3509
+periodo naive, fill with period,96,0.0004084,3509
+periodo smart, fill with period,96,4.46333e-05,3509
+periodo naive, fill random,3735,0.0212106,3736
+periodo smart, fill random,3735,7.32e-05,3736
+periodo naive, fill with period,71,7.93333e-05,71
+periodo smart, fill with period,71,3.22903e-06,71
+periodo naive, fill random,3977,0.0378778,3978
+periodo smart, fill random,3977,6.55e-05,3978
+periodo naive, fill with period,96,0.00082425,3978
+periodo smart, fill with period,96,6.05333e-05,3978
+periodo naive, fill random,4234,0.0393174,4236
+periodo smart, fill random,4234,0.0001134,4236
+periodo naive, fill with period,97,0.0014257,4236
+periodo smart, fill with period,97,0.000113467,4236
+periodo naive, fill random,4509,0.0368987,4511
+periodo smart, fill random,4509,9.5775e-05,4511
+periodo naive, fill with period,96,0.00082305,4511
+periodo smart, fill with period,96,0.000117333,4511
+periodo naive, fill random,4803,0.0442278,4803
+periodo smart, fill random,4803,0.0001186,4803
+periodo naive, fill with period,96,0.0012684,4803
+periodo smart, fill with period,96,8.505e-05,4803
+periodo naive, fill random,5112,0.0489576,5114
+periodo smart, fill random,5112,9.945e-05,5114
+periodo naive, fill with period,96,0.0006966,5114
+periodo smart, fill with period,96,6.73333e-05,5114
+periodo naive, fill random,5446,0.0395105,5446
+periodo smart, fill random,5446,7.635e-05,5446
+periodo naive, fill with period,98,0.00065355,5446
+periodo smart, fill with period,98,5.21e-05,5446
+periodo naive, fill random,5795,0.052046,5798
+periodo smart, fill random,5795,9.915e-05,5798
+periodo naive, fill with period,98,0.0012912,5798
+periodo smart, fill with period,98,5.51e-05,5798
+periodo naive, fill random,6171,0.0881074,6174
+periodo smart, fill random,6171,0.0001138,6174
+periodo naive, fill with period,6,7.33577e-07,6
+periodo smart, fill with period,6,8.73913e-07,6
+periodo naive, fill random,6574,0.0886199,6574
+periodo smart, fill random,6574,0.000118867,6574
+periodo naive, fill with period,98,0.0012841,6574
+periodo smart, fill with period,98,5.955e-05,6574
+periodo naive, fill random,6996,0.135784,7000
+periodo smart, fill random,6996,0.00010785,7000
+periodo naive, fill with period,96,0.0011485,7000
+periodo smart, fill with period,96,7.19e-05,7000
+periodo naive, fill random,7453,0.0859524,7454
+periodo smart, fill random,7453,0.0001566,7454
+periodo naive, fill with period,96,0.00157005,7454
+periodo smart, fill with period,96,0.00011355,7454
+periodo naive, fill random,7937,0.0892261,7937
+periodo smart, fill random,7937,0.0001181,7937
+periodo naive, fill with period,97,0.001316,7937
+periodo smart, fill with period,97,7.76e-05,7937
+periodo naive, fill random,8451,0.0936063,8451
+periodo smart, fill random,8451,0.00011515,8451
+periodo naive, fill with period,77,0.00043145,77
+periodo smart, fill with period,77,1.15333e-05,77
+periodo naive, fill random,8997,0.0725407,8998
+periodo smart, fill random,8997,0.0001757,8998
+periodo naive, fill with period,98,0.00182625,8998
+periodo smart, fill with period,98,8.45e-05,8998
+periodo naive, fill random,9580,0.199599,9581
+periodo smart, fill random,9580,0.00022765,9581
+periodo naive, fill with period,10,5.63944e-07,10
+periodo smart, fill with period,10,1.62661e-06,10
+periodo naive, fill random,10200,0.22256,10202
+periodo smart, fill random,10200,0.00014055,10202
+periodo naive, fill with period,11,3.98016e-07,11
+periodo smart, fill with period,11,1.01364e-06,11
+periodo naive, fill random,10863,0.214653,10863
+periodo smart, fill random,10863,0.0001774,10863
+periodo naive, fill with period,98,0.0027135,10863
+periodo smart, fill with period,98,0.0001482,10863
+periodo naive, fill random,11567,0.182661,11567
+periodo smart, fill random,11567,0.000162,11567
+periodo naive, fill with period,98,0.0018779,11567
+periodo smart, fill with period,98,0.0002215,11567
+periodo naive, fill random,12315,0.18682,12316
+periodo smart, fill random,12315,0.0001792,12316
+periodo naive, fill with period,61,0.0005849,61
+periodo smart, fill with period,61,1.76333e-05,61
+periodo naive, fill random,13114,0.19349,13114
+periodo smart, fill random,13114,0.00027395,13114
+periodo naive, fill with period,98,0.00353955,13114
+periodo smart, fill with period,98,0.0001535,13114
+periodo naive, fill random,13964,0.380638,13964
+periodo smart, fill random,13964,0.00013385,13964
+periodo naive, fill with period,97,0.0017252,13964
+periodo smart, fill with period,97,9.295e-05,13964
+periodo naive, fill random,14867,0.270735,14868
+periodo smart, fill random,14867,0.00022825,14868
+periodo naive, fill with period,7,3.7048e-07,7
+periodo smart, fill with period,7,6.2875e-07,7
+periodo naive, fill random,15832,0.43535,15832
+periodo smart, fill random,15832,0.0002767,15832
+periodo naive, fill with period,98,0.0041397,15832
+periodo smart, fill with period,98,0.00026875,15832
+periodo naive, fill random,16855,0.427417,16857
+periodo smart, fill random,16855,0.00035775,16857
+periodo naive, fill with period,10,5.58889e-07,10
+periodo smart, fill with period,10,1.45072e-06,10
+periodo naive, fill random,17950,0.47431,17950
+periodo smart, fill random,17950,0.0003419,17950
+periodo naive, fill with period,98,0.00240115,17950
+periodo smart, fill with period,98,0.00017325,17950
+periodo naive, fill random,19112,0.455304,19113
+periodo smart, fill random,19112,0.00043125,19113
+periodo naive, fill with period,96,0.00223925,19113
+periodo smart, fill with period,96,0.00018,19113
+periodo naive, fill random,20346,0.550301,20351
+periodo smart, fill random,20346,0.00056025,20351
+periodo naive, fill with period,96,0.00606005,20351
+periodo smart, fill with period,96,0.00023585,20351
+periodo naive, fill random,21669,1.23423,21669
+periodo smart, fill random,21669,0.0003506,21669
+periodo naive, fill with period,97,0.0063081,21669
+periodo smart, fill with period,97,0.00039105,21669
+periodo naive, fill random,23073,1.64859,23073
+periodo smart, fill random,23073,0.00036425,23073
+periodo naive, fill with period,98,0.0056618,23073
+periodo smart, fill with period,98,0.00031595,23073
+periodo naive, fill random,24568,0.998955,24568
+periodo smart, fill random,24568,0.00034365,24568
+periodo naive, fill with period,97,0.00349685,24568
+periodo smart, fill with period,97,0.000245,24568
+periodo naive, fill random,26159,1.12316,26160
+periodo smart, fill random,26159,0.00051575,26160
+periodo naive, fill with period,97,0.0040536,26160
+periodo smart, fill with period,97,0.00025375,26160
+periodo naive, fill random,27854,1.02399,27854
+periodo smart, fill random,27854,0.0006098,27854
+periodo naive, fill with period,98,0.00418015,27854
+periodo smart, fill with period,98,0.00035725,27854
+periodo naive, fill random,29659,1.22481,29659
+periodo smart, fill random,29659,0.00080005,29659
+periodo naive, fill with period,98,0.0114372,29659
+periodo smart, fill with period,98,0.00052555,29659
+periodo naive, fill random,31581,2.62726,31581
+periodo smart, fill random,31581,0.0005048,31581
+periodo naive, fill with period,98,0.00653755,31581
+periodo smart, fill with period,98,0.0003557,31581
+periodo naive, fill random,33626,2.26733,33627
+periodo smart, fill random,33626,0.00053175,33627
+periodo naive, fill with period,96,0.00624505,33627
+periodo smart, fill with period,96,0.00042555,33627
+periodo naive, fill random,35805,2.2457,35805
+periodo smart, fill random,35805,0.00055395,35805
+periodo naive, fill with period,97,0.00602165,35805
+periodo smart, fill with period,97,0.00037345,35805
+periodo naive, fill random,38125,2.36851,38125
+periodo smart, fill random,38125,0.0005325,38125
+periodo naive, fill with period,98,0.0057345,38125
+periodo smart, fill with period,98,0.0003853,38125
+periodo naive, fill random,40594,2.45416,40595
+periodo smart, fill random,40594,0.00055575,40595
+periodo naive, fill with period,42,2.746e-05,42
+periodo smart, fill with period,42,3.95e-06,42
+periodo naive, fill random,43225,2.31823,43225
+periodo smart, fill random,43225,0.00070075,43225
+periodo naive, fill with period,97,0.0051829,43225
+periodo smart, fill with period,97,0.00041105,43225
+periodo naive, fill random,46023,1.64706,46025
+periodo smart, fill random,46023,0.00079675,46025
+periodo naive, fill with period,98,0.00923595,46025
+periodo smart, fill with period,98,0.00050895,46025
+periodo naive, fill random,49006,4.36404,49007
+periodo smart, fill random,49006,0.0007675,49007
+periodo naive, fill with period,32,1.325e-05,32
+periodo smart, fill with period,32,3.64667e-05,32
+periodo naive, fill random,52182,4.64718,52182
+periodo smart, fill random,52182,0.00078465,52182
+periodo naive, fill with period,96,0.00853205,52182
+periodo smart, fill with period,96,0.0005366,52182
+periodo naive, fill random,55562,4.52437,55563
+periodo smart, fill random,55562,0.0007688,55563
+periodo naive, fill with period,97,0.0081192,55563
+periodo smart, fill with period,97,0.00062175,55563
+periodo naive, fill random,59161,4.54104,59163
+periodo smart, fill random,59161,0.0008618,59163
+periodo naive, fill with period,96,0.00764145,59163
+periodo smart, fill with period,96,0.00056815,59163
+periodo naive, fill random,62995,4.43289,62996
+periodo smart, fill random,62995,0.00121875,62996
+periodo naive, fill with period,96,0.0157992,62996
+periodo smart, fill with period,96,0.0010417,62996
+periodo naive, fill random,67076,11.1457,67077
+periodo smart, fill random,67076,0.00132755,67077
+periodo naive, fill with period,97,0.0174184,67077
+periodo smart, fill with period,97,0.00079125,67077
+periodo naive, fill random,71419,10.8202,71422
+periodo smart, fill random,71419,0.0010904,71422
+periodo naive, fill with period,40,1.63571e-05,40
+periodo smart, fill with period,40,3.65667e-05,40
+periodo naive, fill random,76049,10.9465,76050
+periodo smart, fill random,76049,0.0011726,76050
+periodo naive, fill with period,98,0.0133212,76050
+periodo smart, fill with period,98,0.0007969,76050
+periodo naive, fill random,80975,10.8646,80977
+periodo smart, fill random,80975,0.00116485,80977
+periodo naive, fill with period,97,0.0145975,80977
+periodo smart, fill with period,97,0.00083965,80977
+periodo naive, fill random,86223,10.5906,86223
+periodo smart, fill random,86223,0.00118335,86223
+periodo naive, fill with period,97,0.0117853,86223
+periodo smart, fill with period,97,0.00084275,86223
+periodo naive, fill random,91807,10.9969,91809
+periodo smart, fill random,91807,0.00129915,91809
+periodo naive, fill with period,98,0.0111386,91809
+periodo smart, fill with period,98,0.00086795,91809
+periodo naive, fill random,97757,10.4305,97757
+periodo smart, fill random,97757,0.0015357,97757
+periodo naive, fill with period,96,0.0216858,97757
+periodo smart, fill with period,96,0.0009231,97757
+periodo naive, fill random,104089,21.4613,104090
+periodo smart, fill random,104089,0.0016013,104090
+periodo naive, fill with period,97,0.0190321,104090
+periodo smart, fill with period,97,0.00112115,104090
+periodo naive, fill random,110832,22.1847,110834
+periodo smart, fill random,110832,0.00100785,110834
+periodo naive, fill with period,96,0.0110153,110834
+periodo smart, fill with period,96,0.0006794,110834
+periodo naive, fill random,118013,23.3048,118014
+periodo smart, fill random,118013,0.00194545,118014
+periodo naive, fill with period,98,0.0223979,118014
+periodo smart, fill with period,98,0.0012137,118014
+periodo naive, fill random,125659,24.8869,125660
+periodo smart, fill random,125659,0.0020318,125660
+periodo naive, fill with period,37,1.51714e-05,37
+periodo smart, fill with period,37,4.368e-05,37
+periodo naive, fill random,133801,19.2411,133801
+periodo smart, fill random,133801,0.00204945,133801
+periodo naive, fill with period,96,0.00619165,133801
+periodo smart, fill with period,96,0.00127465,133801
+periodo naive, fill random,142470,5.73121,142470
+periodo smart, fill random,142470,0.00203635,142470
+periodo naive, fill with period,98,0.0045352,142470
+periodo smart, fill with period,98,0.0013242,142470
+periodo naive, fill random,151700,43.6034,151700
+periodo smart, fill random,151700,0.00227295,151700
+periodo naive, fill with period,97,0.0279973,151700
+periodo smart, fill with period,97,0.001454,151700
+periodo naive, fill random,161527,46.3941,161528
+periodo smart, fill random,161527,0.00212005,161528
+periodo naive, fill with period,98,0.0280783,161528
+periodo smart, fill with period,98,0.0014462,161528
+periodo naive, fill random,171991,49.5963,171992
+periodo smart, fill random,171991,0.0025448,171992
+periodo naive, fill with period,98,0.0301648,171992
+periodo smart, fill with period,98,0.00185755,171992
+periodo naive, fill random,183134,52.4422,183135
+periodo smart, fill random,183134,0.00277155,183135
+periodo naive, fill with period,98,0.039359,183135
+periodo smart, fill with period,98,0.0027041,183135
+periodo naive, fill random,195000,44.0895,195000
+periodo smart, fill random,195000,0.00316885,195000
+periodo naive, fill with period,96,0.0102858,195000
+periodo smart, fill with period,96,0.00195775,195000
+periodo naive, fill random,207630,63.6274,207633
+periodo smart, fill random,207630,0.0030767,207633
+periodo naive, fill with period,96,0.0321386,207633
+periodo smart, fill with period,96,0.00177575,207633
+periodo naive, fill random,221085,65.1333,221085
+periodo smart, fill random,221085,0.00344235,221085
+periodo naive, fill with period,96,0.0275403,221085
+periodo smart, fill with period,96,0.00184615,221085
+periodo naive, fill random,235407,68.2783,235408
+periodo smart, fill random,235407,0.0030193,235408
+periodo naive, fill with period,25,1.3275e-05,25
+periodo smart, fill with period,25,3.65e-05,25
+periodo naive, fill random,250658,52.1833,250659
+periodo smart, fill random,250658,0.00457305,250659
+periodo naive, fill with period,96,0.00597335,250659
+periodo smart, fill with period,96,0.00276145,250659
+periodo naive, fill random,266897,18.5472,266898
+periodo smart, fill random,266897,0.00377485,266898
+periodo naive, fill with period,21,1.14444e-05,21
+periodo smart, fill with period,21,3.64e-05,21
+periodo naive, fill random,284189,29.386,284190
+periodo smart, fill random,284189,0.00398285,284190
+periodo naive, fill with period,96,0.0120397,284190
+periodo smart, fill with period,96,0.00243525,284190
+periodo naive, fill random,302601,27.5483,302601
+periodo smart, fill random,302601,0.0040629,302601
+periodo naive, fill with period,98,0.010057,302601
+periodo smart, fill with period,98,0.0027459,302601
+periodo naive, fill random,322206,40.0668,322206
+periodo smart, fill random,322206,0.0044041,322206
+periodo naive, fill with period,96,0.00899255,322206
+periodo smart, fill with period,96,0.00270715,322206
+periodo naive, fill random,343079,61.7001,343080
+periodo smart, fill random,343079,0.00460295,343080
+periodo naive, fill with period,63,0.00089755,63
+periodo smart, fill with period,63,3.68333e-05,63
+periodo naive, fill random,365306,73.2232,365307
+periodo smart, fill random,365306,0.0052164,365307
+periodo naive, fill with period,98,0.0109484,365307
+periodo smart, fill with period,98,0.0031419,365307
+periodo naive, fill random,388974,36.7755,388974
+periodo smart, fill random,388974,0.0052987,388974
+periodo naive, fill with period,98,0.0107093,388974
+periodo smart, fill with period,98,0.0033102,388974
+periodo naive, fill random,414172,42.9076,414174
+periodo smart, fill random,414172,0.00562865,414174
+periodo naive, fill with period,98,0.0118701,414174
+periodo smart, fill with period,98,0.0036049,414174
+periodo naive, fill random,441006,47.1642,441006
+periodo smart, fill random,441006,0.0062442,441006
+periodo naive, fill with period,15,5.06061e-07,15
+periodo smart, fill with period,15,2.206e-05,15
+periodo naive, fill random,469577,119.851,469577
+periodo smart, fill random,469577,0.0063882,469577
+periodo naive, fill with period,97,0.0140167,469577
+periodo smart, fill with period,97,0.0041748,469577
+periodo naive, fill random,499997,61.2488,500000
+periodo smart, fill random,499997,0.0060713,500000
+periodo naive, fill with period,97,0.0145146,500000
+periodo smart, fill with period,97,0.004227,500000
+periodo naive, fill random,999,0.0144483,1000
+periodo smart, fill random,999,6.105e-05,1000
+periodo naive, fill with period,96,0.0014646,1000
+periodo smart, fill with period,96,5.75333e-05,1000
+periodo naive, fill random,1064,0.0194677,1064
+periodo smart, fill random,1064,5.72333e-05,1064
+periodo naive, fill with period,97,0.0014041,1064
+periodo smart, fill with period,97,4.48667e-05,1064
+periodo naive, fill random,1133,0.0175562,1133
+periodo smart, fill random,1133,5.08e-05,1133
+periodo naive, fill with period,90,7.37e-05,90
+periodo smart, fill with period,90,4.54222e-06,90
+periodo naive, fill random,1205,0.0157419,1207
+periodo smart, fill random,1205,5.26667e-05,1207
+periodo naive, fill with period,98,0.00127215,1207
+periodo smart, fill with period,98,4.59e-05,1207
+periodo naive, fill random,1284,0.016831,1285
+periodo smart, fill random,1284,5.33e-05,1285
+periodo naive, fill with period,97,0.00125145,1285
+periodo smart, fill with period,97,4.63333e-05,1285
+periodo naive, fill random,1368,0.0175288,1368
+periodo smart, fill random,1368,5.38667e-05,1368
+periodo naive, fill with period,97,0.00124645,1368
+periodo smart, fill with period,97,4.7e-05,1368
+periodo naive, fill random,1457,0.0191303,1457
+periodo smart, fill random,1457,5.43667e-05,1457
+periodo naive, fill with period,72,5.305e-05,72
+periodo smart, fill with period,72,3.00294e-06,72
+periodo naive, fill random,1551,0.0195644,1551
+periodo smart, fill random,1551,5.29667e-05,1551
+periodo naive, fill with period,96,0.00122335,1551
+periodo smart, fill with period,96,4.72e-05,1551
+periodo naive, fill random,1651,0.0212326,1652
+periodo smart, fill random,1651,6.215e-05,1652
+periodo naive, fill with period,96,0.00121605,1652
+periodo smart, fill with period,96,4.78667e-05,1652
+periodo naive, fill random,1759,0.0216343,1759
+periodo smart, fill random,1759,6.2675e-05,1759
+periodo naive, fill with period,97,0.00116815,1759
+periodo smart, fill with period,97,4.86333e-05,1759
+periodo naive, fill random,1871,0.0222167,1873
+periodo smart, fill random,1871,5.89e-05,1873
+periodo naive, fill with period,96,0.00114465,1873
+periodo smart, fill with period,96,4.94e-05,1873
+periodo naive, fill random,1993,0.0238118,1994
+periodo smart, fill random,1993,6.09e-05,1994
+periodo naive, fill with period,97,0.0011457,1994
+periodo smart, fill with period,97,5.02e-05,1994
+periodo naive, fill random,2123,0.0253569,2123
+periodo smart, fill random,2123,6.23333e-05,2123
+periodo naive, fill with period,97,0.0011325,2123
+periodo smart, fill with period,97,5.10667e-05,2123
+periodo naive, fill random,2261,0.0261455,2261
+periodo smart, fill random,2261,5.13e-05,2261
+periodo naive, fill with period,82,6.1125e-05,82
+periodo smart, fill with period,82,3.14375e-06,82
+periodo naive, fill random,2406,0.0281219,2408
+periodo smart, fill random,2406,5.18e-05,2408
+periodo naive, fill with period,36,3.11857e-05,36
+periodo smart, fill with period,36,2.13191e-06,36
+periodo naive, fill random,2563,0.0289431,2564
+periodo smart, fill random,2563,5.445e-05,2564
+periodo naive, fill with period,97,0.0011007,2564
+periodo smart, fill with period,97,5.40667e-05,2564
+periodo naive, fill random,2730,0.0307374,2730
+periodo smart, fill random,2730,5.445e-05,2730
+periodo naive, fill with period,11,3.98016e-07,11
+periodo smart, fill with period,11,9.88235e-07,11
+periodo naive, fill random,2906,0.0314907,2907
+periodo smart, fill random,2906,5.785e-05,2907
+periodo naive, fill with period,97,0.0010665,2907
+periodo smart, fill with period,97,5.63333e-05,2907
+periodo naive, fill random,3095,0.0346229,3095
+periodo smart, fill random,3095,5.965e-05,3095
+periodo naive, fill with period,98,0.00106215,3095
+periodo smart, fill with period,98,5.74e-05,3095
+periodo naive, fill random,3295,0.0346018,3295
+periodo smart, fill random,3295,5.845e-05,3295
+periodo naive, fill with period,98,0.0010286,3295
+periodo smart, fill with period,98,5.86667e-05,3295
+periodo naive, fill random,3508,0.033536,3509
+periodo smart, fill random,3508,5.995e-05,3509
+periodo naive, fill with period,96,0.00088345,3509
+periodo smart, fill with period,96,5.75667e-05,3509
+periodo naive, fill random,3735,0.0336991,3736
+periodo smart, fill random,3735,6.045e-05,3736
+periodo naive, fill with period,97,0.00086455,3736
+periodo smart, fill with period,97,5.89667e-05,3736
+periodo naive, fill random,3978,0.0341623,3978
+periodo smart, fill random,3978,6.505e-05,3978
+periodo naive, fill with period,97,0.00083505,3978
+periodo smart, fill with period,97,6.05e-05,3978
+periodo naive, fill random,4236,0.0348685,4236
+periodo smart, fill random,4236,6.665e-05,4236
+periodo naive, fill with period,5,2.7883e-07,5
+periodo smart, fill with period,5,5.97024e-07,5
+periodo naive, fill random,4510,0.0356329,4511
+periodo smart, fill random,4510,6.755e-05,4511
+periodo naive, fill with period,34,5.51667e-05,34
+periodo smart, fill with period,34,3.47931e-06,34
+periodo naive, fill random,4803,0.0361486,4803
+periodo smart, fill random,4803,8.81333e-05,4803
+periodo naive, fill with period,98,0.0007368,4803
+periodo smart, fill with period,98,6.54e-05,4803
+periodo naive, fill random,5114,0.0368209,5114
+periodo smart, fill random,5114,7.515e-05,5114
+periodo naive, fill with period,98,0.0006985,5114
+periodo smart, fill with period,98,6.72667e-05,5114
+periodo naive, fill random,5445,0.0369178,5446
+periodo smart, fill random,5445,8.08e-05,5446
+periodo naive, fill with period,96,0.000643,5446
+periodo smart, fill with period,96,6.93333e-05,5446
+periodo naive, fill random,5797,0.0350668,5798
+periodo smart, fill random,5797,0.0003641,5798
+periodo naive, fill with period,97,0.0006058,5798
+periodo smart, fill with period,97,0.00034385,5798
+periodo naive, fill random,6174,0.0349949,6174
+periodo smart, fill random,6174,0.0003713,6174
+periodo naive, fill with period,80,9.345e-05,80
+periodo smart, fill with period,80,5.56316e-06,80
+periodo naive, fill random,6574,0.0336653,6574
+periodo smart, fill random,6574,0.00040815,6574
+periodo naive, fill with period,26,4.34e-05,26
+periodo smart, fill with period,26,1.6623e-06,26
+periodo naive, fill random,6999,0.0318254,7000
+periodo smart, fill random,6999,0.000449,7000
+periodo naive, fill with period,98,0.0004609,7000
+periodo smart, fill with period,98,0.00034425,7000
+periodo naive, fill random,7454,0.0287104,7454
+periodo smart, fill random,7454,0.0003764,7454
+periodo naive, fill with period,75,8.86e-05,75
+periodo smart, fill with period,75,3.91154e-06,75
+periodo naive, fill random,7937,0.0259511,7937
+periodo smart, fill random,7937,0.00038695,7937
+periodo naive, fill with period,97,0.00033975,7937
+periodo smart, fill with period,97,0.0003494,7937
+periodo naive, fill random,8451,0.0224219,8451
+periodo smart, fill random,8451,0.00039305,8451
+periodo naive, fill with period,96,0.00027395,8451
+periodo smart, fill with period,96,0.00035235,8451
+periodo naive, fill random,8995,2.68474,8998
+periodo smart, fill random,8995,0.00039485,8998
+periodo naive, fill with period,97,0.0287084,8998
+periodo smart, fill with period,97,0.0003557,8998
+periodo naive, fill random,9581,2.87508,9581
+periodo smart, fill random,9581,0.0004079,9581
+periodo naive, fill with period,96,0.0286636,9581
+periodo smart, fill with period,96,0.0003593,9581
+periodo naive, fill random,10201,3.12706,10202
+periodo smart, fill random,10201,0.0004125,10202
+periodo naive, fill with period,97,0.0288085,10202
+periodo smart, fill with period,97,0.0003627,10202
+periodo naive, fill random,10862,3.30557,10863
+periodo smart, fill random,10862,0.00041275,10863
+periodo naive, fill with period,1,1.42593e-07,0
+periodo smart, fill with period,-1057014873,199.84,0
+periodo naive, fill random,11566,3.6975,11567
+periodo smart, fill random,11566,0.0007086,11567
+periodo naive, fill with period,98,0.0390296,11567
+periodo smart, fill with period,98,0.00119705,11567
+periodo naive, fill random,12316,3.97514,12316
+periodo smart, fill random,12316,0.00113885,12316
+periodo naive, fill with period,6,4.29487e-07,6
+periodo smart, fill with period,6,1.43143e-06,6
+periodo naive, fill random,13114,3.96645,13114
+periodo smart, fill random,13114,0.0007269,13114
+periodo naive, fill with period,96,0.0280528,13114
+periodo smart, fill with period,96,0.00066415,13114
+periodo naive, fill random,13962,4.24166,13964
+periodo smart, fill random,13962,0.00073455,13964
+periodo naive, fill with period,96,0.0286242,13964
+periodo smart, fill with period,96,0.0008187,13964
+periodo naive, fill random,14868,4.47677,14868
+periodo smart, fill random,14868,0.00073495,14868
+periodo naive, fill with period,41,6.59e-05,41
+periodo smart, fill with period,41,3.5069e-06,41
+periodo naive, fill random,15832,4.64925,15832
+periodo smart, fill random,15832,0.000752,15832
+periodo naive, fill with period,98,0.0288016,15832
+periodo smart, fill with period,98,0.00067155,15832
+periodo naive, fill random,16857,4.91639,16857
+periodo smart, fill random,16857,0.0007456,16857
+periodo naive, fill with period,97,0.0277488,16857
+periodo smart, fill with period,97,0.0008693,16857
+periodo naive, fill random,17950,5.21754,17950
+periodo smart, fill random,17950,0.00077345,17950
+periodo naive, fill with period,55,6.49e-05,55
+periodo smart, fill with period,55,3.66071e-06,55
+periodo naive, fill random,19113,5.5334,19113
+periodo smart, fill random,19113,0.0007864,19113
+periodo naive, fill with period,97,0.0281359,19113
+periodo smart, fill with period,97,0.00069035,19113
+periodo naive, fill random,20351,5.87613,20351
+periodo smart, fill random,20351,0.00121355,20351
+periodo naive, fill with period,97,0.0299148,20351
+periodo smart, fill with period,97,0.0007027,20351
+periodo naive, fill random,21669,6.22076,21669
+periodo smart, fill random,21669,0.00086805,21669
+periodo naive, fill with period,96,0.0313375,21669
+periodo smart, fill with period,96,0.00070485,21669
+periodo naive, fill random,23073,6.4508,23073
+periodo smart, fill random,23073,0.0007968,23073
+periodo naive, fill with period,97,0.0268026,23073
+periodo smart, fill with period,97,0.00069785,23073
+periodo naive, fill random,24568,6.86048,24568
+periodo smart, fill random,24568,0.0008051,24568
+periodo naive, fill with period,8,3.15094e-07,8
+periodo smart, fill with period,8,9.19266e-07,8
+periodo naive, fill random,26160,7.22244,26160
+periodo smart, fill random,26160,0.0008767,26160
+periodo naive, fill with period,97,0.0263268,26160
+periodo smart, fill with period,97,0.00071375,26160
+periodo naive, fill random,27853,7.64978,27854
+periodo smart, fill random,27853,0.00086465,27854
+periodo naive, fill with period,5,3.21154e-07,6
+periodo smart, fill with period,5,8.82456e-07,6
+periodo naive, fill random,29659,8.09298,29659
+periodo smart, fill random,29659,0.0008782,29659
+periodo naive, fill with period,97,0.0259457,29659
+periodo smart, fill with period,97,0.0010708,29659
+periodo naive, fill random,31580,8.58279,31581
+periodo smart, fill random,31580,0.00090055,31581
+periodo naive, fill with period,11,3.98413e-07,11
+periodo smart, fill with period,11,9.79024e-07,11
+periodo naive, fill random,33627,9.02587,33627
+periodo smart, fill random,33627,0.00146415,33627
+periodo naive, fill with period,96,0.0278969,33627
+periodo smart, fill with period,96,0.0007947,33627
+periodo naive, fill random,35803,9.46249,35805
+periodo smart, fill random,35803,0.00141615,35805
+periodo naive, fill with period,97,0.0279498,35805
+periodo smart, fill with period,97,0.0007955,35805
+periodo naive, fill random,38125,10.0578,38125
+periodo smart, fill random,38125,0.00092145,38125
+periodo naive, fill with period,96,0.0249163,38125
+periodo smart, fill with period,96,0.00077385,38125
+periodo naive, fill random,40595,10.5875,40595
+periodo smart, fill random,40595,0.00095785,40595
+periodo naive, fill with period,97,0.0256597,40595
+periodo smart, fill with period,97,0.0008278,40595
+periodo naive, fill random,43224,11.115,43225
+periodo smart, fill random,43224,0.00101045,43225
+periodo naive, fill with period,98,0.0248247,43225
+periodo smart, fill with period,98,0.0007997,43225
+periodo naive, fill random,46025,11.0351,46025
+periodo smart, fill random,46025,0.00098245,46025
+periodo naive, fill with period,4,2.76519e-07,5
+periodo smart, fill with period,4,2.7e-06,5
+periodo naive, fill random,49007,11.5356,49007
+periodo smart, fill random,49007,0.00104445,49007
+periodo naive, fill with period,97,0.0238991,49007
+periodo smart, fill with period,97,0.0007989,49007
+periodo naive, fill random,52182,12.0437,52182
+periodo smart, fill random,52182,0.0010232,52182
+periodo naive, fill with period,43,1.80083e-05,43
+periodo smart, fill with period,43,5.27895e-06,43
+periodo naive, fill random,55560,12.5298,55563
+periodo smart, fill random,55560,0.00111125,55563
+periodo naive, fill with period,29,1.4175e-05,29
+periodo smart, fill with period,29,5.115e-06,29
+periodo naive, fill random,59162,13.0379,59163
+periodo smart, fill random,59162,0.0011372,59163
+periodo naive, fill with period,98,0.0218539,59163
+periodo smart, fill with period,98,0.00084325,59163
+periodo naive, fill random,62996,13.5523,62996
+periodo smart, fill random,62996,0.0012613,62996
+periodo naive, fill with period,96,0.0203836,62996
+periodo smart, fill with period,96,0.00086045,62996
+periodo naive, fill random,67077,13.9899,67077
+periodo smart, fill random,67077,0.001154,67077
+periodo naive, fill with period,98,0.020555,67077
+periodo smart, fill with period,98,0.0008785,67077
+periodo naive, fill random,71422,14.5556,71422
+periodo smart, fill random,71422,0.0011808,71422
+periodo naive, fill with period,97,0.0199059,71422
+periodo smart, fill with period,97,0.00089755,71422
+periodo naive, fill random,76050,14.8755,76050
+periodo smart, fill random,76050,0.0014584,76050
+periodo naive, fill with period,14,4.8125e-07,14
+periodo smart, fill with period,14,2.79722e-06,14
+periodo naive, fill random,80977,15.337,80977
+periodo smart, fill random,80977,0.00135575,80977
+periodo naive, fill with period,96,0.0186055,80977
+periodo smart, fill with period,96,0.0009399,80977
+periodo naive, fill random,86220,15.606,86223
+periodo smart, fill random,86220,0.00138845,86223
+periodo naive, fill with period,96,0.0173856,86223
+periodo smart, fill with period,96,0.00096355,86223
+periodo naive, fill random,91808,16.8589,91809
+periodo smart, fill random,91808,0.00164295,91809
+periodo naive, fill with period,7,3.66667e-07,7
+periodo smart, fill with period,7,2.74324e-06,7
+periodo naive, fill random,97757,12.3726,97757
+periodo smart, fill random,97757,0.00064135,97757
+periodo naive, fill with period,97,0.00684555,97757
+periodo smart, fill with period,97,0.00042425,97757
+periodo naive, fill random,104090,6.7011,104090
+periodo smart, fill random,104090,0.0007154,104090
+periodo naive, fill with period,96,0.00626965,104090
+periodo smart, fill with period,96,0.0004359,104090
+periodo naive, fill random,110831,6.6938,110834
+periodo smart, fill random,110831,0.00063925,110834
+periodo naive, fill with period,37,6.58125e-06,37
+periodo smart, fill with period,37,2.23333e-06,37
+periodo naive, fill random,118013,6.64473,118014
+periodo smart, fill random,118013,0.00068085,118014
+periodo naive, fill with period,6,1.34182e-07,6
+periodo smart, fill with period,6,1.14091e-06,6
+periodo naive, fill random,125660,6.49955,125660
+periodo smart, fill random,125660,0.00078145,125660
+periodo naive, fill with period,98,0.0120824,125660
+periodo smart, fill with period,98,0.0004846,125660
+periodo naive, fill random,133796,14.108,133801
+periodo smart, fill random,133796,0.0008807,133801
+periodo naive, fill with period,97,0.0106639,133801
+periodo smart, fill with period,97,0.0006195,133801
+periodo naive, fill random,142469,14.5219,142470
+periodo smart, fill random,142469,0.00105315,142470
+periodo naive, fill with period,20,0.0001156,20
+periodo smart, fill with period,20,6.2236e-07,20
+periodo naive, fill random,151699,15.0705,151700
+periodo smart, fill random,151699,0.0009571,151700
+periodo naive, fill with period,97,0.00971335,151700
+periodo smart, fill with period,97,0.0006698,151700
+periodo naive, fill random,161528,15.6514,161528
+periodo smart, fill random,161528,0.00101065,161528
+periodo naive, fill with period,97,0.00989265,161528
+periodo smart, fill with period,97,0.00066925,161528
+periodo naive, fill random,171992,12.0984,171992
+periodo smart, fill random,171992,0.0011684,171992
+periodo naive, fill with period,98,0.00269385,171992
+periodo smart, fill with period,98,0.00074835,171992
+periodo naive, fill random,183133,16.579,183135
+periodo smart, fill random,183133,0.00109565,183135
+periodo naive, fill with period,98,0.0092892,183135
+periodo smart, fill with period,98,0.00103345,183135
+periodo naive, fill random,195000,17.3161,195000
+periodo smart, fill random,195000,0.001339,195000
+periodo naive, fill with period,35,0.0001973,35
+periodo smart, fill with period,35,1.063e-05,35
+periodo naive, fill random,207633,6.62438,207633
+periodo smart, fill random,207633,0.00129725,207633
+periodo naive, fill with period,97,0.0019956,207633
+periodo smart, fill with period,97,0.00108985,207633
+periodo naive, fill random,221084,29.8256,221085
+periodo smart, fill random,221084,0.0011632,221085
+periodo naive, fill with period,72,0.0004308,72
+periodo smart, fill with period,72,1.076e-05,72
+periodo naive, fill random,235408,31.0998,235408
+periodo smart, fill random,235408,0.0014178,235408
+periodo naive, fill with period,97,0.0132422,235408
+periodo smart, fill with period,97,0.00086675,235408
+periodo naive, fill random,250658,23.1191,250659
+periodo smart, fill random,250658,0.00172035,250659
+periodo naive, fill with period,98,0.00257945,250659
+periodo smart, fill with period,98,0.00104505,250659
+periodo naive, fill random,266898,17.9133,266898
+periodo smart, fill random,266898,0.00152685,266898
+periodo naive, fill with period,97,0.0058165,266898
+periodo smart, fill with period,97,0.00100995,266898
+periodo naive, fill random,284188,13.5851,284190
+periodo smart, fill random,284188,0.0015802,284190
+periodo naive, fill with period,96,0.00524085,284190
+periodo smart, fill with period,96,0.00109005,284190
+periodo naive, fill random,302600,12.8859,302601
+periodo smart, fill random,302600,0.001786,302601
+periodo naive, fill with period,96,0.00476265,302601
+periodo smart, fill with period,96,0.0011302,302601
+periodo naive, fill random,322204,19.9138,322206
+periodo smart, fill random,322204,0.00200835,322206
+periodo naive, fill with period,40,3.325e-05,40
+periodo smart, fill with period,40,2.24667e-06,40
+periodo naive, fill random,343079,13.8975,343080
+periodo smart, fill random,343079,0.001872,343080
+periodo naive, fill with period,96,0.00501955,343080
+periodo smart, fill with period,96,0.00138855,343080
+periodo naive, fill random,365307,30.7621,365307
+periodo smart, fill random,365307,0.00200335,365307
+periodo naive, fill with period,97,0.00535595,365307
+periodo smart, fill with period,97,0.00142725,365307
+periodo naive, fill random,388974,19.2417,388974
+periodo smart, fill random,388974,0.0022337,388974
+periodo naive, fill with period,98,0.00566205,388974
+periodo smart, fill with period,98,0.00144675,388974
+periodo naive, fill random,414173,20.2519,414174
+periodo smart, fill random,414173,0.0021998,414174
+periodo naive, fill with period,35,0.000203,36
+periodo smart, fill with period,35,1.062e-05,36
+periodo naive, fill random,441005,46.1218,441006
+periodo smart, fill random,441005,0.0023296,441006
+periodo naive, fill with period,97,0.00630595,441006
+periodo smart, fill with period,97,0.0016646,441006
+periodo naive, fill random,469576,26.7478,469577
+periodo smart, fill random,469576,0.0025203,469577
+periodo naive, fill with period,96,0.00707835,469577
+periodo smart, fill with period,96,0.00175025,469577
+periodo naive, fill random,500000,29.0741,500000
+periodo smart, fill random,500000,0.00284335,500000
+periodo naive, fill with period,56,4.07333e-05,56
+periodo smart, fill with period,56,2.31818e-06,56
+periodo naive, fill random,999,0.0057451,1000
+periodo smart, fill random,999,2.426e-05,1000
+periodo naive, fill with period,97,0.00053215,1000
+periodo smart, fill with period,97,2.218e-05,1000
+periodo naive, fill random,1064,0.0057939,1064
+periodo smart, fill random,1064,2.424e-05,1064
+periodo naive, fill with period,97,0.0005295,1064
+periodo smart, fill with period,97,2.238e-05,1064
+periodo naive, fill random,1132,0.00626645,1133
+periodo smart, fill random,1132,2.785e-05,1133
+periodo naive, fill with period,97,0.0005967,1133
+periodo smart, fill with period,97,2.612e-05,1133
+periodo naive, fill random,1207,0.00698455,1207
+periodo smart, fill random,1207,2.7325e-05,1207
+periodo naive, fill with period,98,0.0006276,1207
+periodo smart, fill with period,98,3.165e-05,1207
+periodo naive, fill random,1285,0.0073232,1285
+periodo smart, fill random,1285,2.57e-05,1285
+periodo naive, fill with period,97,0.0006167,1285
+periodo smart, fill with period,97,2.38e-05,1285
+periodo naive, fill random,1366,0.0073033,1368
+periodo smart, fill random,1366,2.505e-05,1368
+periodo naive, fill with period,72,3.31e-05,72
+periodo smart, fill with period,72,1.255e-06,72
+periodo naive, fill random,1457,0.0077785,1457
+periodo smart, fill random,1457,2.54e-05,1457
+periodo naive, fill with period,30,6.55625e-06,30
+periodo smart, fill with period,30,1.06211e-06,30
+periodo naive, fill random,1551,0.00842965,1551
+periodo smart, fill random,1551,2.628e-05,1551
+periodo naive, fill with period,97,0.000497,1551
+periodo smart, fill with period,97,2.366e-05,1551
+periodo naive, fill random,1651,0.0084359,1652
+periodo smart, fill random,1651,2.615e-05,1652
+periodo naive, fill with period,96,0.0004868,1652
+periodo smart, fill with period,96,2.396e-05,1652
+periodo naive, fill random,1756,0.0087878,1759
+periodo smart, fill random,1756,2.6075e-05,1759
+periodo naive, fill with period,97,0.0004878,1759
+periodo smart, fill with period,97,2.432e-05,1759
+periodo naive, fill random,1872,0.0091953,1873
+periodo smart, fill random,1872,2.64e-05,1873
+periodo naive, fill with period,30,6.54375e-06,30
+periodo smart, fill with period,30,9.74757e-07,30
+periodo naive, fill random,1993,0.00971035,1994
+periodo smart, fill random,1993,2.755e-05,1994
+periodo naive, fill with period,97,0.0006472,1994
+periodo smart, fill with period,97,2.9575e-05,1994
+periodo naive, fill random,2121,0.0103116,2123
+periodo smart, fill random,2121,2.83e-05,2123
+periodo naive, fill with period,98,0.00047845,2123
+periodo smart, fill with period,98,2.56e-05,2123
+periodo naive, fill random,2261,0.0110444,2261
+periodo smart, fill random,2261,2.875e-05,2261
+periodo naive, fill with period,97,0.00046745,2261
+periodo smart, fill with period,97,2.608e-05,2261
+periodo naive, fill random,2407,0.0112963,2408
+periodo smart, fill random,2407,2.9625e-05,2408
+periodo naive, fill with period,97,0.00046175,2408
+periodo smart, fill with period,97,2.658e-05,2408
+periodo naive, fill random,2564,0.0120298,2564
+periodo smart, fill random,2564,3.0275e-05,2564
+periodo naive, fill with period,98,0.00045945,2564
+periodo smart, fill with period,98,2.54e-05,2564
+periodo naive, fill random,2730,0.0126372,2730
+periodo smart, fill random,2730,3.1e-05,2730
+periodo naive, fill with period,96,0.00044415,2730
+periodo smart, fill with period,96,2.5975e-05,2730
+periodo naive, fill random,2907,0.0137068,2907
+periodo smart, fill random,2907,3.31e-05,2907
+periodo naive, fill with period,10,1.57638e-07,10
+periodo smart, fill with period,10,3.32558e-07,10
+periodo naive, fill random,3094,0.0124945,3095
+periodo smart, fill random,3094,3.355e-05,3095
+periodo naive, fill with period,96,0.00039085,3095
+periodo smart, fill with period,96,2.71e-05,3095
+periodo naive, fill random,3295,0.012822,3295
+periodo smart, fill random,3295,3.4675e-05,3295
+periodo naive, fill with period,96,0.0003806,3295
+periodo smart, fill with period,96,2.775e-05,3295
+periodo naive, fill random,3509,0.0136367,3509
+periodo smart, fill random,3509,3.38e-05,3509
+periodo naive, fill with period,96,0.0003693,3509
+periodo smart, fill with period,96,2.7075e-05,3509
+periodo naive, fill random,3730,0.0138022,3736
+periodo smart, fill random,3730,3.5475e-05,3736
+periodo naive, fill with period,15,2.12076e-07,15
+periodo smart, fill with period,15,1.19643e-06,15
+periodo naive, fill random,3976,0.0147108,3978
+periodo smart, fill random,3976,3.44e-05,3978
+periodo naive, fill with period,98,0.0003525,3978
+periodo smart, fill with period,98,2.845e-05,3978
+periodo naive, fill random,4236,0.0150393,4236
+periodo smart, fill random,4236,3.41333e-05,4236
+periodo naive, fill with period,96,0.000332,4236
+periodo smart, fill with period,96,2.915e-05,4236
+periodo naive, fill random,4510,0.0147046,4511
+periodo smart, fill random,4510,3.75333e-05,4511
+periodo naive, fill with period,96,0.00031735,4511
+periodo smart, fill with period,96,2.995e-05,4511
+periodo naive, fill random,4802,0.014638,4803
+periodo smart, fill random,4802,3.76333e-05,4803
+periodo naive, fill with period,97,0.0003049,4803
+periodo smart, fill with period,97,3.075e-05,4803
+periodo naive, fill random,5113,0.0150066,5114
+periodo smart, fill random,5113,4.09e-05,5114
+periodo naive, fill with period,97,0.0002892,5114
+periodo smart, fill with period,97,3.165e-05,5114
+periodo naive, fill random,5445,0.0150584,5446
+periodo smart, fill random,5445,3.94e-05,5446
+periodo naive, fill with period,96,0.00026885,5446
+periodo smart, fill with period,96,3.255e-05,5446
+periodo naive, fill random,5798,0.0149505,5798
+periodo smart, fill random,5798,0.0001612,5798
+periodo naive, fill with period,60,3.89333e-05,60
+periodo smart, fill with period,60,2.34186e-06,60
+periodo naive, fill random,6169,0.01421,6174
+periodo smart, fill random,6169,0.00015555,6174
+periodo naive, fill with period,96,0.00023175,6174
+periodo smart, fill with period,96,0.0001423,6174
+periodo naive, fill random,6573,0.0141293,6574
+periodo smart, fill random,6573,0.0001569,6574
+periodo naive, fill with period,52,3.37667e-05,52
+periodo smart, fill with period,52,2.28864e-06,52
+periodo naive, fill random,6999,0.0131484,7000
+periodo smart, fill random,6999,0.00015665,7000
+periodo naive, fill with period,97,0.0001908,7000
+periodo smart, fill with period,97,0.0001443,7000
+periodo naive, fill random,7454,0.012336,7454
+periodo smart, fill random,7454,0.0001614,7454
+periodo naive, fill with period,96,0.00016595,7454
+periodo smart, fill with period,96,0.00014545,7454
+periodo naive, fill random,7936,0.0105641,7937
+periodo smart, fill random,7936,0.0001623,7937
+periodo naive, fill with period,97,0.00014205,7937
+periodo smart, fill with period,97,0.0001465,7937
+periodo naive, fill random,8451,0.0088849,8451
+periodo smart, fill random,8451,0.0001624,8451
+periodo naive, fill with period,98,0.00011655,8451
+periodo smart, fill with period,98,0.00014775,8451
+periodo naive, fill random,8998,1.11787,8998
+periodo smart, fill random,8998,0.0001656,8998
+periodo naive, fill with period,96,0.011691,8998
+periodo smart, fill with period,96,0.000149,8998
+periodo naive, fill random,9581,1.21302,9581
+periodo smart, fill random,9581,0.00016705,9581
+periodo naive, fill with period,98,0.0120629,9581
+periodo smart, fill with period,98,0.0001504,9581
+periodo naive, fill random,10201,1.35312,10202
+periodo smart, fill random,10201,0.0001778,10202
+periodo naive, fill with period,98,0.012485,10202
+periodo smart, fill with period,98,0.0001581,10202
+periodo naive, fill random,10863,1.36201,10863
+periodo smart, fill random,10863,0.00019215,10863
+periodo naive, fill with period,15,2.12979e-07,15
+periodo smart, fill with period,15,1.20476e-06,15
+periodo naive, fill random,11567,1.46998,11567
+periodo smart, fill random,11567,0.0003214,11567
+periodo naive, fill with period,96,0.0125849,11567
+periodo smart, fill with period,96,0.0002888,11567
+periodo naive, fill random,12316,1.59007,12316
+periodo smart, fill random,12316,0.00031345,12316
+periodo naive, fill with period,97,0.0121456,12316
+periodo smart, fill with period,97,0.00028535,12316
+periodo naive, fill random,13114,1.67709,13114
+periodo smart, fill random,13114,0.00032315,13114
+periodo naive, fill with period,96,0.0126926,13114
+periodo smart, fill with period,96,0.00029835,13114
+periodo naive, fill random,13964,1.78454,13964
+periodo smart, fill random,13964,0.00031065,13964
+periodo naive, fill with period,42,7.5e-06,42
+periodo smart, fill with period,42,2.28182e-06,42
+periodo naive, fill random,14868,1.90655,14868
+periodo smart, fill random,14868,0.00032835,14868
+periodo naive, fill with period,97,0.0127488,14868
+periodo smart, fill with period,97,0.00030325,14868
+periodo naive, fill random,15832,1.9833,15832
+periodo smart, fill random,15832,0.0004588,15832
+periodo naive, fill with period,98,0.0130433,15832
+periodo smart, fill with period,98,0.00028585,15832
+periodo naive, fill random,16857,2.07059,16857
+periodo smart, fill random,16857,0.0003314,16857
+periodo naive, fill with period,98,0.0125154,16857
+periodo smart, fill with period,98,0.00029945,16857
+periodo naive, fill random,17950,2.24461,17950
+periodo smart, fill random,17950,0.00036215,17950
+periodo naive, fill with period,20,5.08e-06,20
+periodo smart, fill with period,20,2.41667e-06,20
+periodo naive, fill random,19113,2.3895,19113
+periodo smart, fill random,19113,0.0003209,19113
+periodo naive, fill with period,97,0.0114269,19113
+periodo smart, fill with period,97,0.00028895,19113
+periodo naive, fill random,20348,2.48422,20351
+periodo smart, fill random,20348,0.00040585,20351
+periodo naive, fill with period,98,0.0123383,20351
+periodo smart, fill with period,98,0.0002987,20351
+periodo naive, fill random,21668,2.66198,21669
+periodo smart, fill random,21668,0.0003375,21669
+periodo naive, fill with period,98,0.0118982,21669
+periodo smart, fill with period,98,0.0002953,21669
+periodo naive, fill random,23073,2.7307,23073
+periodo smart, fill random,23073,0.00036315,23073
+periodo naive, fill with period,15,2.31178e-07,15
+periodo smart, fill with period,15,1.29103e-06,15
+periodo naive, fill random,24568,2.954,24568
+periodo smart, fill random,24568,0.0003483,24568
+periodo naive, fill with period,34,6.12941e-06,34
+periodo smart, fill with period,34,2.22444e-06,34
+periodo naive, fill random,26159,3.10153,26160
+periodo smart, fill random,26159,0.0003711,26160
+periodo naive, fill with period,97,0.0118888,26160
+periodo smart, fill with period,97,0.00031115,26160
+periodo naive, fill random,27849,3.32137,27854
+periodo smart, fill random,27849,0.00041545,27854
+periodo naive, fill with period,98,0.013099,27854
+periodo smart, fill with period,98,0.00034725,27854
+periodo naive, fill random,29659,3.53341,29659
+periodo smart, fill random,29659,0.00035765,29659
+periodo naive, fill with period,96,0.0109596,29659
+periodo smart, fill with period,96,0.0003063,29659
+periodo naive, fill random,31581,3.56941,31581
+periodo smart, fill random,31581,0.00039735,31581
+periodo naive, fill with period,14,2.10947e-07,14
+periodo smart, fill with period,14,1.24815e-06,14
+periodo naive, fill random,33624,3.77721,33627
+periodo smart, fill random,33624,0.0003897,33627
+periodo naive, fill with period,96,0.0107326,33627
+periodo smart, fill with period,96,0.00032205,33627
+periodo naive, fill random,35805,4.0347,35805
+periodo smart, fill random,35805,0.000408,35805
+periodo naive, fill with period,30,6.74e-06,30
+periodo smart, fill with period,30,2.27955e-06,30
+periodo naive, fill random,38125,4.15931,38125
+periodo smart, fill random,38125,0.0004282,38125
+periodo naive, fill with period,96,0.0111747,38125
+periodo smart, fill with period,96,0.00035395,38125
+periodo naive, fill random,40595,4.511,40595
+periodo smart, fill random,40595,0.0004499,40595
+periodo naive, fill with period,98,0.0117779,40595
+periodo smart, fill with period,98,0.00037355,40595
+periodo naive, fill random,43223,4.69586,43225
+periodo smart, fill random,43223,0.0004612,43225
+periodo naive, fill with period,96,0.0109771,43225
+periodo smart, fill with period,96,0.0003742,43225
+periodo naive, fill random,46024,4.537,46025
+periodo smart, fill random,46024,0.00041855,46025
+periodo naive, fill with period,97,0.00971875,46025
+periodo smart, fill with period,97,0.00032885,46025
+periodo naive, fill random,49006,4.75491,49007
+periodo smart, fill random,49006,0.00044555,49007
+periodo naive, fill with period,98,0.00994045,49007
+periodo smart, fill with period,98,0.0003518,49007
+periodo naive, fill random,52182,4.89876,52182
+periodo smart, fill random,52182,0.00044015,52182
+periodo naive, fill with period,97,0.00912915,52182
+periodo smart, fill with period,97,0.0003402,52182
+periodo naive, fill random,55563,5.08511,55563
+periodo smart, fill random,55563,0.000443,55563
+periodo naive, fill with period,96,0.00902855,55563
+periodo smart, fill with period,96,0.0003463,55563
+periodo naive, fill random,59159,5.29743,59163
+periodo smart, fill random,59159,0.0004519,59163
+periodo naive, fill with period,98,0.00888705,59163
+periodo smart, fill with period,98,0.0003531,59163
+periodo naive, fill random,62994,5.51389,62996
+periodo smart, fill random,62994,0.00048955,62996
+periodo naive, fill with period,96,0.0085847,62996
+periodo smart, fill with period,96,0.0003632,62996
+periodo naive, fill random,67077,5.69563,67077
+periodo smart, fill random,67077,0.00052505,67077
+periodo naive, fill with period,86,5.63667e-05,86
+periodo smart, fill with period,86,2.42381e-06,86
+periodo naive, fill random,71420,5.893,71422
+periodo smart, fill random,71420,0.00052595,71422
+periodo naive, fill with period,5,1.16647e-07,5
+periodo smart, fill with period,5,3.69742e-07,5
+periodo naive, fill random,76050,6.08907,76050
+periodo smart, fill random,76050,0.00054085,76050
+periodo naive, fill with period,98,0.0079269,76050
+periodo smart, fill with period,98,0.00038415,76050
+periodo naive, fill random,80977,6.23373,80977
+periodo smart, fill random,80977,0.0005533,80977
+periodo naive, fill with period,96,0.00766895,80977
+periodo smart, fill with period,96,0.0003975,80977
+periodo naive, fill random,86223,6.3768,86223
+periodo smart, fill random,86223,0.0005432,86223
+periodo naive, fill with period,96,0.0073814,86223
+periodo smart, fill with period,96,0.00040275,86223
+periodo naive, fill random,91809,6.46856,91809
+periodo smart, fill random,91809,0.00059075,91809
+periodo naive, fill with period,28,2.288e-05,28
+periodo smart, fill with period,28,6.38217e-07,28
+periodo naive, fill random,97757,6.56812,97757
+periodo smart, fill random,97757,0.0005981,97757
+periodo naive, fill with period,33,2.668e-05,33
+periodo smart, fill with period,33,1.45217e-06,33
+periodo naive, fill random,104090,6.59031,104090
+periodo smart, fill random,104090,0.00063295,104090
+periodo naive, fill with period,96,0.006411,104090
+periodo smart, fill with period,96,0.0004399,104090
+periodo naive, fill random,110832,6.58552,110834
+periodo smart, fill random,110832,0.00063725,110834
+periodo naive, fill with period,98,0.00599805,110834
+periodo smart, fill with period,98,0.00044865,110834
+periodo naive, fill random,118014,6.52939,118014
+periodo smart, fill random,118014,0.0006532,118014
+periodo naive, fill with period,96,0.0055087,118014
+periodo smart, fill with period,96,0.00046205,118014
+periodo naive, fill random,125660,6.57138,125660
+periodo smart, fill random,125660,0.0008563,125660
+periodo naive, fill with period,97,0.0123325,125660
+periodo smart, fill with period,97,0.00048465,125660
+periodo naive, fill random,133800,13.997,133801
+periodo smart, fill random,133800,0.00118465,133801
+periodo naive, fill with period,98,0.0100503,133801
+periodo smart, fill with period,98,0.0005951,133801
+periodo naive, fill random,142468,14.4031,142470
+periodo smart, fill random,142468,0.00095825,142470
+periodo naive, fill with period,97,0.0103505,142470
+periodo smart, fill with period,97,0.00066325,142470
+periodo naive, fill random,151700,15.2439,151700
+periodo smart, fill random,151700,0.00101675,151700
+periodo naive, fill with period,32,0.0002048,32
+periodo smart, fill with period,32,1.19e-05,32
+periodo naive, fill random,161528,15.1027,161528
+periodo smart, fill random,161528,0.0009503,161528
+periodo naive, fill with period,84,0.00048195,84
+periodo smart, fill with period,84,1.955e-05,84
+periodo naive, fill random,171992,11.8316,171992
+periodo smart, fill random,171992,0.00117815,171992
+periodo naive, fill with period,96,0.0026466,171992
+periodo smart, fill with period,96,0.00076795,171992
+periodo naive, fill random,183134,16.3797,183135
+periodo smart, fill random,183134,0.0010385,183135
+periodo naive, fill with period,96,0.0089452,183135
+periodo smart, fill with period,96,0.00073285,183135
+periodo naive, fill random,195000,17.0317,195000
+periodo smart, fill random,195000,0.0012689,195000
+periodo naive, fill with period,98,0.00637535,195000
+periodo smart, fill with period,98,0.00090145,195000
+periodo naive, fill random,207633,3.35761,207633
+periodo smart, fill random,207633,0.00135355,207633
+periodo naive, fill with period,97,0.012331,207633
+periodo smart, fill with period,97,0.0007484,207633
+periodo naive, fill random,221085,29.372,221085
+periodo smart, fill random,221085,0.0013574,221085
+periodo naive, fill with period,98,0.014267,221085
+periodo smart, fill with period,98,0.0008912,221085
+periodo naive, fill random,235408,30.471,235408
+periodo smart, fill random,235408,0.0015781,235408
+periodo naive, fill with period,96,0.0149993,235408
+periodo smart, fill with period,96,0.0009707,235408
+periodo naive, fill random,250658,23.5782,250659
+periodo smart, fill random,250658,0.0018631,250659
+periodo naive, fill with period,36,6.38125e-06,36
+periodo smart, fill with period,36,2.002e-06,36
+periodo naive, fill random,266898,8.22282,266898
+periodo smart, fill random,266898,0.00154515,266898
+periodo naive, fill with period,96,0.0051394,266898
+periodo smart, fill with period,96,0.0010198,266898
+periodo naive, fill random,284190,12.5117,284190
+periodo smart, fill random,284190,0.00164195,284190
+periodo naive, fill with period,98,0.0048003,284190
+periodo smart, fill with period,98,0.00107515,284190
+periodo naive, fill random,302600,11.786,302601
+periodo smart, fill random,302600,0.0017872,302601
+periodo naive, fill with period,97,0.00425255,302601
+periodo smart, fill with period,97,0.00112985,302601
+periodo naive, fill random,322201,17.6533,322206
+periodo smart, fill random,322201,0.0018846,322206
+periodo naive, fill with period,98,0.0042514,322206
+periodo smart, fill with period,98,0.00119115,322206
+periodo naive, fill random,343080,25.5863,343080
+periodo smart, fill random,343080,0.0018615,343080
+periodo naive, fill with period,34,6.05294e-06,34
+periodo smart, fill with period,34,1.9e-05,34
+periodo naive, fill random,365307,30.1708,365307
+periodo smart, fill random,365307,0.00212765,365307
+periodo naive, fill with period,98,0.0046389,365307
+periodo smart, fill with period,98,0.0013816,365307
+periodo naive, fill random,388974,16.6679,388974
+periodo smart, fill random,388974,0.00225545,388974
+periodo naive, fill with period,96,0.0048201,388974
+periodo smart, fill with period,96,0.0014546,388974
+periodo naive, fill random,414173,19.4215,414174
+periodo smart, fill random,414173,0.002374,414174
+periodo naive, fill with period,17,3.8e-06,17
+periodo smart, fill with period,17,1.895e-05,17
+periodo naive, fill random,441004,43.7889,441006
+periodo smart, fill random,441004,0.0025581,441006
+periodo naive, fill with period,38,6.7e-06,38
+periodo smart, fill with period,38,1.90167e-05,38
+periodo naive, fill random,469577,48.9534,469577
+periodo smart, fill random,469577,0.0027507,469577
+periodo naive, fill with period,98,0.00602365,469577
+periodo smart, fill with period,98,0.0017472,469577
+periodo naive, fill random,500000,28.3804,500000
+periodo smart, fill random,500000,0.00270565,500000
+periodo naive, fill with period,2,6.39617e-08,2
+periodo smart, fill with period,2,3.43986e-07,2
+periodo naive, fill random,999,0.00569065,1000
+periodo smart, fill random,999,2.418e-05,1000
+periodo naive, fill with period,97,0.0005451,1000
+periodo smart, fill with period,97,2.222e-05,1000
+periodo naive, fill random,1063,0.00604,1064
+periodo smart, fill random,1063,2.438e-05,1064
+periodo naive, fill with period,98,0.00056165,1064
+periodo smart, fill with period,98,2.246e-05,1064
+periodo naive, fill random,1130,0.00629765,1133
+periodo smart, fill random,1130,2.456e-05,1133
+periodo naive, fill with period,97,0.0005354,1133
+periodo smart, fill with period,97,2.266e-05,1133
+periodo naive, fill random,1207,0.00654195,1207
+periodo smart, fill random,1207,2.514e-05,1207
+periodo naive, fill with period,98,0.0005346,1207
+periodo smart, fill with period,98,2.296e-05,1207
+periodo naive, fill random,1285,0.00690825,1285
+periodo smart, fill random,1285,2.548e-05,1285
+periodo naive, fill with period,98,0.00053245,1285
+periodo smart, fill with period,98,2.326e-05,1285
+periodo naive, fill random,1367,0.0073252,1368
+periodo smart, fill random,1367,2.618e-05,1368
+periodo naive, fill with period,97,0.000525,1368
+periodo smart, fill with period,97,2.362e-05,1368
+periodo naive, fill random,1457,0.0077198,1457
+periodo smart, fill random,1457,2.505e-05,1457
+periodo naive, fill with period,97,0.0005189,1457
+periodo smart, fill with period,97,2.392e-05,1457
+periodo naive, fill random,1551,0.008158,1551
+periodo smart, fill random,1551,2.5175e-05,1551
+periodo naive, fill with period,98,0.0005218,1551
+periodo smart, fill with period,98,2.364e-05,1551
+periodo naive, fill random,1651,0.0087648,1652
+periodo smart, fill random,1651,2.5225e-05,1652
+periodo naive, fill with period,98,0.00051885,1652
+periodo smart, fill with period,98,2.398e-05,1652
+periodo naive, fill random,1757,0.00873345,1759
+periodo smart, fill random,1757,2.635e-05,1759
+periodo naive, fill with period,97,0.00049035,1759
+periodo smart, fill with period,97,2.43e-05,1759
+periodo naive, fill random,1872,0.00919335,1873
+periodo smart, fill random,1872,2.685e-05,1873
+periodo naive, fill with period,39,1.68667e-05,39
+periodo smart, fill with period,39,1.01717e-06,39
+periodo naive, fill random,1993,0.0097189,1994
+periodo smart, fill random,1993,2.7425e-05,1994
+periodo naive, fill with period,98,0.0004831,1994
+periodo smart, fill with period,98,2.512e-05,1994
+periodo naive, fill random,2123,0.0102111,2123
+periodo smart, fill random,2123,2.7675e-05,2123
+periodo naive, fill with period,29,1.25667e-05,29
+periodo smart, fill with period,29,9.13636e-07,29
+periodo naive, fill random,2259,0.0108547,2261
+periodo smart, fill random,2259,2.8775e-05,2261
+periodo naive, fill with period,98,0.00047595,2261
+periodo smart, fill with period,98,2.606e-05,2261
+periodo naive, fill random,2408,0.0113541,2408
+periodo smart, fill random,2408,2.8875e-05,2408
+periodo naive, fill with period,39,1.345e-05,39
+periodo smart, fill with period,39,9.50943e-07,39
+periodo naive, fill random,2564,0.0118645,2564
+periodo smart, fill random,2564,2.9975e-05,2564
+periodo naive, fill with period,96,0.00046255,2564
+periodo smart, fill with period,96,2.5375e-05,2564
+periodo naive, fill random,2730,0.0123967,2730
+periodo smart, fill random,2730,3.0575e-05,2730
+periodo naive, fill with period,98,0.00045315,2730
+periodo smart, fill with period,98,2.5925e-05,2730
+periodo naive, fill random,2906,0.0131208,2907
+periodo smart, fill random,2906,3.215e-05,2907
+periodo naive, fill with period,96,0.0004372,2907
+periodo smart, fill with period,96,2.65e-05,2907
+periodo naive, fill random,3091,0.0135649,3095
+periodo smart, fill random,3091,3.33e-05,3095
+periodo naive, fill with period,96,0.000429,3095
+periodo smart, fill with period,96,2.695e-05,3095
+periodo naive, fill random,3294,0.0141783,3295
+periodo smart, fill random,3294,3.405e-05,3295
+periodo naive, fill with period,40,0.00022765,40
+periodo smart, fill with period,40,7.73077e-07,40
+periodo naive, fill random,3508,0.0131924,3509
+periodo smart, fill random,3508,3.44e-05,3509
+periodo naive, fill with period,97,0.00037315,3509
+periodo smart, fill with period,97,2.7075e-05,3509
+periodo naive, fill random,3736,0.013755,3736
+periodo smart, fill random,3736,3.53e-05,3736
+periodo naive, fill with period,55,4.13667e-05,55
+periodo smart, fill with period,55,1.56719e-06,55
+periodo naive, fill random,3978,0.0140613,3978
+periodo smart, fill random,3978,3.41e-05,3978
+periodo naive, fill with period,5,1.17076e-07,5
+periodo smart, fill with period,5,3.7048e-07,5
+periodo naive, fill random,4236,0.0142561,4236
+periodo smart, fill random,4236,3.38333e-05,4236
+periodo naive, fill with period,98,0.00033875,4236
+periodo smart, fill with period,98,2.915e-05,4236
+periodo naive, fill random,4510,0.0145502,4511
+periodo smart, fill random,4510,3.54667e-05,4511
+periodo naive, fill with period,96,0.00031735,4511
+periodo smart, fill with period,96,2.995e-05,4511
+periodo naive, fill random,4802,0.0146245,4803
+periodo smart, fill random,4802,3.78667e-05,4803
+periodo naive, fill with period,96,0.00030195,4803
+periodo smart, fill with period,96,3.075e-05,4803
+periodo naive, fill random,5112,0.014719,5114
+periodo smart, fill random,5112,3.98333e-05,5114
+periodo naive, fill with period,97,0.0002892,5114
+periodo smart, fill with period,97,3.165e-05,5114
+periodo naive, fill random,5444,0.0147788,5446
+periodo smart, fill random,5444,4.24e-05,5446
+periodo naive, fill with period,96,0.0002688,5446
+periodo smart, fill with period,96,3.26e-05,5446
+periodo naive, fill random,5797,0.0144869,5798
+periodo smart, fill random,5797,0.00016295,5798
+periodo naive, fill with period,42,3.185e-05,42
+periodo smart, fill with period,42,1.50746e-06,42
+periodo naive, fill random,6174,0.014199,6174
+periodo smart, fill random,6174,0.00015675,6174
+periodo naive, fill with period,97,0.00023385,6174
+periodo smart, fill with period,97,0.0001454,6174
+periodo naive, fill random,6571,0.01371,6574
+periodo smart, fill random,6571,0.0002409,6574
+periodo naive, fill with period,98,0.0002263,6574
+periodo smart, fill with period,98,0.00017415,6574
+periodo naive, fill random,7000,0.0129897,7000
+periodo smart, fill random,7000,0.0001602,7000
+periodo naive, fill with period,97,0.0001908,7000
+periodo smart, fill with period,97,0.00014445,7000
+periodo naive, fill random,7454,0.0119297,7454
+periodo smart, fill random,7454,0.0001582,7454
+periodo naive, fill with period,97,0.0001675,7454
+periodo smart, fill with period,97,0.00014535,7454
+periodo naive, fill random,7937,0.0105166,7937
+periodo smart, fill random,7937,0.0001599,7937
+periodo naive, fill with period,97,0.0001419,7937
+periodo smart, fill with period,97,0.00014645,7937
+periodo naive, fill random,8450,0.00883335,8451
+periodo smart, fill random,8450,0.0001661,8451
+periodo naive, fill with period,97,0.00011545,8451
+periodo smart, fill with period,97,0.0001479,8451
+periodo naive, fill random,8998,1.17029,8998
+periodo smart, fill random,8998,0.00019025,8998
+periodo naive, fill with period,98,0.0139369,8998
+periodo smart, fill with period,98,0.0001704,8998
+periodo naive, fill random,9579,1.29076,9581
+periodo smart, fill random,9579,0.00020435,9581
+periodo naive, fill with period,96,0.0142016,9581
+periodo smart, fill with period,96,0.0001808,9581
+periodo naive, fill random,10202,1.28774,10202
+periodo smart, fill random,10202,0.00017455,10202
+periodo naive, fill with period,96,0.0118064,10202
+periodo smart, fill with period,96,0.0001545,10202
+periodo naive, fill random,10863,1.4174,10863
+periodo smart, fill random,10863,0.00018825,10863
+periodo naive, fill with period,97,0.0127203,10863
+periodo smart, fill with period,97,0.00016355,10863
+periodo naive, fill random,11567,1.48813,11567
+periodo smart, fill random,11567,0.0003119,11567
+periodo naive, fill with period,98,0.0123672,11567
+periodo smart, fill with period,98,0.00028545,11567
+periodo naive, fill random,12316,1.59269,12316
+periodo smart, fill random,12316,0.00033485,12316
+periodo naive, fill with period,97,0.0130332,12316
+periodo smart, fill with period,97,0.0003072,12316
+periodo naive, fill random,13114,1.74407,13114
+periodo smart, fill random,13114,0.00035465,13114
+periodo naive, fill with period,96,0.0134281,13114
+periodo smart, fill with period,96,0.00032195,13114
+periodo naive, fill random,13963,1.79855,13964
+periodo smart, fill random,13963,0.0003118,13964
+periodo naive, fill with period,96,0.0118402,13964
+periodo smart, fill with period,96,0.00028835,13964
+periodo naive, fill random,14867,1.85595,14868
+periodo smart, fill random,14867,0.00036105,14868
+periodo naive, fill with period,98,0.0170289,14868
+periodo smart, fill with period,98,0.00042435,14868
+periodo naive, fill random,15832,1.89646,15832
+periodo smart, fill random,15832,0.00030895,15832
+periodo naive, fill with period,97,0.0115052,15832
+periodo smart, fill with period,97,0.00028095,15832
+periodo naive, fill random,16856,2.10146,16857
+periodo smart, fill random,16856,0.00034175,16857
+periodo naive, fill with period,34,2.7725e-05,34
+periodo smart, fill with period,34,1.55846e-06,34
+periodo naive, fill random,17949,2.20791,17950
+periodo smart, fill random,17949,0.00033315,17950
+periodo naive, fill with period,97,0.0117784,17950
+periodo smart, fill with period,97,0.0002943,17950
+periodo naive, fill random,19113,2.36552,19113
+periodo smart, fill random,19113,0.00038135,19113
+periodo naive, fill with period,48,3.76667e-05,48
+periodo smart, fill with period,48,1.77895e-06,48
+periodo naive, fill random,20351,2.53095,20351
+periodo smart, fill random,20351,0.00037595,20351
+periodo naive, fill with period,98,0.0133475,20351
+periodo smart, fill with period,98,0.00034145,20351
+periodo naive, fill random,21669,2.62486,21669
+periodo smart, fill random,21669,0.00034685,21669
+periodo naive, fill with period,96,0.0116367,21669
+periodo smart, fill with period,96,0.00031175,21669
+periodo naive, fill random,23073,2.749,23073
+periodo smart, fill random,23073,0.0003516,23073
+periodo naive, fill with period,97,0.011719,23073
+periodo smart, fill with period,97,0.00030765,23073
+periodo naive, fill random,24566,2.93484,24568
+periodo smart, fill random,24566,0.00039095,24568
+periodo naive, fill with period,5,1.3e-07,5
+periodo smart, fill with period,5,4.17083e-07,5
+periodo naive, fill random,26160,3.01646,26160
+periodo smart, fill random,26160,0.00034525,26160
+periodo naive, fill with period,97,0.0108889,26160
+periodo smart, fill with period,97,0.00029885,26160
+periodo naive, fill random,27851,3.19186,27854
+periodo smart, fill random,27851,0.0003721,27854
+periodo naive, fill with period,98,0.0112867,27854
+periodo smart, fill with period,98,0.00031105,27854
+periodo naive, fill random,29659,3.37995,29659
+periodo smart, fill random,29659,0.00036715,29659
+periodo naive, fill with period,47,3.53e-05,47
+periodo smart, fill with period,47,1.51818e-06,47
+periodo naive, fill random,31580,3.688,31581
+periodo smart, fill random,31580,0.00037465,31581
+periodo naive, fill with period,9,1.43966e-07,9
+periodo smart, fill with period,9,3.94094e-07,9
+periodo naive, fill random,33627,3.86828,33627
+periodo smart, fill random,33627,0.0003985,33627
+periodo naive, fill with period,96,0.0114851,33627
+periodo smart, fill with period,96,0.0003387,33627
+periodo naive, fill random,35804,3.97271,35805
+periodo smart, fill random,35804,0.0004373,35805
+periodo naive, fill with period,97,0.0116163,35805
+periodo smart, fill with period,97,0.0003485,35805
+periodo naive, fill random,38125,4.14718,38125
+periodo smart, fill random,38125,0.00038805,38125
+periodo naive, fill with period,98,0.0104865,38125
+periodo smart, fill with period,98,0.0003242,38125
+periodo naive, fill random,40595,4.46126,40595
+periodo smart, fill random,40595,0.0004262,40595
+periodo naive, fill with period,47,3.74e-05,47
+periodo smart, fill with period,47,1.61111e-06,47
+periodo naive, fill random,43225,4.86176,43225
+periodo smart, fill random,43225,0.00043055,43225
+periodo naive, fill with period,46,8.32308e-06,46
+periodo smart, fill with period,46,1.29359e-06,46
+periodo naive, fill random,46023,4.41577,46025
+periodo smart, fill random,46023,0.0004238,46025
+periodo naive, fill with period,98,0.0095808,46025
+periodo smart, fill with period,98,0.0003284,46025
+periodo naive, fill random,49006,4.63787,49007
+periodo smart, fill random,49006,0.00043575,49007
+periodo naive, fill with period,98,0.0093751,49007
+periodo smart, fill with period,98,0.00033395,49007
+periodo naive, fill random,52182,4.81774,52182
+periodo smart, fill random,52182,0.0004484,52182
+periodo naive, fill with period,1,4.89247e-08,1
+periodo smart, fill with period,1,1.11099e-06,1
+periodo naive, fill random,55563,5.03203,55563
+periodo smart, fill random,55563,0.00045975,55563
+periodo naive, fill with period,96,0.00882595,55563
+periodo smart, fill with period,96,0.0003458,55563
+periodo naive, fill random,59163,5.24552,59163
+periodo smart, fill random,59163,0.0004773,59163
+periodo naive, fill with period,5,1.15991e-07,5
+periodo smart, fill with period,5,1.14205e-06,5
+periodo naive, fill random,62996,5.4277,62996
+periodo smart, fill random,62996,0.0004683,62996
+periodo naive, fill with period,98,0.00861075,62996
+periodo smart, fill with period,98,0.00036455,62996
+periodo naive, fill random,67075,5.62614,67077
+periodo smart, fill random,67075,0.0005049,67077
+periodo naive, fill with period,98,0.0084185,67077
+periodo smart, fill with period,98,0.0003675,67077
+periodo naive, fill random,71422,5.80906,71422
+periodo smart, fill random,71422,0.0004986,71422
+periodo naive, fill with period,96,0.0079884,71422
+periodo smart, fill with period,96,0.0003749,71422
+periodo naive, fill random,76050,5.96824,76050
+periodo smart, fill random,76050,0.0005145,76050
+periodo naive, fill with period,14,2.00802e-07,14
+periodo smart, fill with period,14,1.18e-06,14
+periodo naive, fill random,80977,6.12996,80977
+periodo smart, fill random,80977,0.0005331,80977
+periodo naive, fill with period,3,7.78988e-08,3
+periodo smart, fill with period,3,1.12584e-06,3
+periodo naive, fill random,86223,6.27209,86223
+periodo smart, fill random,86223,0.0005809,86223
+periodo naive, fill with period,96,0.00716845,86223
+periodo smart, fill with period,96,0.00040255,86223
+periodo naive, fill random,91807,6.38735,91809
+periodo smart, fill random,91807,0.0005913,91809
+periodo naive, fill with period,96,0.00688735,91809
+periodo smart, fill with period,96,0.00041265,91809
+periodo naive, fill random,97757,6.47284,97757
+periodo smart, fill random,97757,0.00058405,97757
+periodo naive, fill with period,97,0.0066963,97757
+periodo smart, fill with period,97,0.000424,97757
+periodo naive, fill random,104089,6.5113,104090
+periodo smart, fill random,104089,0.00063645,104090
+periodo naive, fill with period,94,5.93667e-05,94
+periodo smart, fill with period,94,2.48537e-06,94
+periodo naive, fill random,110834,6.51788,110834
+periodo smart, fill random,110834,0.00067825,110834
+periodo naive, fill with period,97,0.0059331,110834
+periodo smart, fill with period,97,0.00045535,110834
+periodo naive, fill random,118013,6.47086,118014
+periodo smart, fill random,118013,0.0007067,118014
+periodo naive, fill with period,72,4.63667e-05,72
+periodo smart, fill with period,72,2.39048e-06,72
+periodo naive, fill random,125660,6.33392,125660
+periodo smart, fill random,125660,0.0008098,125660
+periodo naive, fill with period,30,0.00017185,30
+periodo smart, fill with period,30,1.057e-05,30
+periodo naive, fill random,133800,13.176,133801
+periodo smart, fill random,133800,0.000869,133801
+periodo naive, fill with period,98,0.0099547,133801
+periodo smart, fill with period,98,0.0005962,133801
+periodo naive, fill random,142469,13.7806,142470
+periodo smart, fill random,142469,0.0009208,142470
+periodo naive, fill with period,45,0.00025315,45
+periodo smart, fill with period,45,1.063e-05,45
+periodo naive, fill random,151700,14.4156,151700
+periodo smart, fill random,151700,0.0009626,151700
+periodo naive, fill with period,98,0.00961485,151700
+periodo smart, fill with period,98,0.00064285,151700
+periodo naive, fill random,161528,15.0449,161528
+periodo smart, fill random,161528,0.00097865,161528
+periodo naive, fill with period,97,0.0093449,161528
+periodo smart, fill with period,97,0.0006688,161528
+periodo naive, fill random,171991,11.7935,171992
+periodo smart, fill random,171991,0.00107095,171992
+periodo naive, fill with period,98,0.0026968,171992
+periodo smart, fill with period,98,0.00075215,171992
+periodo naive, fill random,183134,16.3416,183135
+periodo smart, fill random,183134,0.00110395,183135
+periodo naive, fill with period,97,0.0090969,183135
+periodo smart, fill with period,97,0.000725,183135
+periodo naive, fill random,194999,16.9773,195000
+periodo smart, fill random,194999,0.00127705,195000
+periodo naive, fill with period,97,0.00639355,195000
+periodo smart, fill with period,97,0.000854,195000
+periodo naive, fill random,207632,3.38986,207633
+periodo smart, fill random,207632,0.0013751,207633
+periodo naive, fill with period,22,0.00012415,22
+periodo smart, fill with period,22,6.07273e-07,22
+periodo naive, fill random,221085,29.0893,221085
+periodo smart, fill random,221085,0.0013719,221085
+periodo naive, fill with period,96,0.0130854,221085
+periodo smart, fill with period,96,0.0008157,221085
+periodo naive, fill random,235407,30.5041,235408
+periodo smart, fill random,235407,0.00140625,235408
+periodo naive, fill with period,44,0.0002675,44
+periodo smart, fill with period,44,1.12889e-05,44
+periodo naive, fill random,250658,24.1324,250659
+periodo smart, fill random,250658,0.00189275,250659
+periodo naive, fill with period,97,0.0023883,250659
+periodo smart, fill with period,97,0.00112035,250659
+periodo naive, fill random,266894,17.4967,266898
+periodo smart, fill random,266894,0.00154115,266898
+periodo naive, fill with period,96,0.00558655,266898
+periodo smart, fill with period,96,0.00100505,266898
+periodo naive, fill random,284188,12.5693,284190
+periodo smart, fill random,284188,0.0015545,284190
+periodo naive, fill with period,98,0.00490645,284190
+periodo smart, fill with period,98,0.00107915,284190
+periodo naive, fill random,302601,11.7823,302601
+periodo smart, fill random,302601,0.00172055,302601
+periodo naive, fill with period,96,0.0042403,302601
+periodo smart, fill with period,96,0.0011333,302601
+periodo naive, fill random,322206,17.587,322206
+periodo smart, fill random,322206,0.0018644,322206
+periodo naive, fill with period,98,0.0042017,322206
+periodo smart, fill with period,98,0.00120335,322206
+periodo naive, fill random,343080,25.5172,343080
+periodo smart, fill random,343080,0.0019556,343080
+periodo naive, fill with period,96,0.0042868,343080
+periodo smart, fill with period,96,0.0013092,343080
+periodo naive, fill random,365307,29.2054,365307
+periodo smart, fill random,365307,0.00204995,365307
+periodo naive, fill with period,98,0.00522385,365307
+periodo smart, fill with period,98,0.00137645,365307
+periodo naive, fill random,388973,16.7123,388974
+periodo smart, fill random,388973,0.0020656,388974
+periodo naive, fill with period,96,0.00482025,388974
+periodo smart, fill with period,96,0.0014555,388974
+periodo naive, fill random,414174,19.3894,414174
+periodo smart, fill random,414174,0.00241715,414174
+periodo naive, fill with period,98,0.00533965,414174
+periodo smart, fill with period,98,0.00154455,414174
+periodo naive, fill random,441005,21.4999,441006
+periodo smart, fill random,441005,0.00246075,441006
+periodo naive, fill with period,96,0.00549745,441006
+periodo smart, fill with period,96,0.00163135,441006
+periodo naive, fill random,469576,24.367,469577
+periodo smart, fill random,469576,0.00270425,469577
+periodo naive, fill with period,97,0.0058339,469577
+periodo smart, fill with period,97,0.0017189,469577
+periodo naive, fill random,500000,28.0787,500000
+periodo smart, fill random,500000,0.0028095,500000
+periodo naive, fill with period,90,6.36667e-05,90
+periodo smart, fill with period,90,2.45854e-06,90
+periodo naive, fill random,999,0.0054827,1000
+periodo smart, fill random,999,2.398e-05,1000
+periodo naive, fill with period,96,0.00052615,1000
+periodo smart, fill with period,96,2.22e-05,1000
+periodo naive, fill random,1063,0.00575625,1064
+periodo smart, fill random,1063,2.458e-05,1064
+periodo naive, fill with period,96,0.0005246,1064
+periodo smart, fill with period,96,2.24e-05,1064
+periodo naive, fill random,1133,0.00610905,1133
+periodo smart, fill random,1133,2.478e-05,1133
+periodo naive, fill with period,97,0.0005286,1133
+periodo smart, fill with period,97,2.27e-05,1133
+periodo naive, fill random,1206,0.00646455,1207
+periodo smart, fill random,1206,2.516e-05,1207
+periodo naive, fill with period,98,0.00053195,1207
+periodo smart, fill with period,98,2.296e-05,1207
+periodo naive, fill random,1285,0.0068683,1285
+periodo smart, fill random,1285,2.538e-05,1285
+periodo naive, fill with period,96,0.0005185,1285
+periodo smart, fill with period,96,2.326e-05,1285
+periodo naive, fill random,1367,0.00726885,1368
+periodo smart, fill random,1367,2.566e-05,1368
+periodo naive, fill with period,98,0.0005272,1368
+periodo smart, fill with period,98,2.358e-05,1368
+periodo naive, fill random,1457,0.0077026,1457
+periodo smart, fill random,1457,2.525e-05,1457
+periodo naive, fill with period,21,4.68182e-06,21
+periodo smart, fill with period,21,6.22981e-07,21
+periodo naive, fill random,1551,0.00792605,1551
+periodo smart, fill random,1551,2.62e-05,1551
+periodo naive, fill with period,98,0.0005046,1551
+periodo smart, fill with period,98,2.366e-05,1551
+periodo naive, fill random,1652,0.00826665,1652
+periodo smart, fill random,1652,2.525e-05,1652
+periodo naive, fill with period,96,0.0004934,1652
+periodo smart, fill with period,96,2.396e-05,1652
+periodo naive, fill random,1759,0.00873055,1759
+periodo smart, fill random,1759,2.6325e-05,1759
+periodo naive, fill with period,97,0.0004887,1759
+periodo smart, fill with period,97,2.436e-05,1759
+periodo naive, fill random,1873,0.00921555,1873
+periodo smart, fill random,1873,2.6275e-05,1873
+periodo naive, fill with period,96,0.00047865,1873
+periodo smart, fill with period,96,2.472e-05,1873
+periodo naive, fill random,1994,0.00971845,1994
+periodo smart, fill random,1994,2.74e-05,1994
+periodo naive, fill with period,97,0.00047895,1994
+periodo smart, fill with period,97,2.514e-05,1994
+periodo naive, fill random,2122,0.0101999,2123
+periodo smart, fill random,2122,2.8075e-05,2123
+periodo naive, fill with period,98,0.00047785,2123
+periodo smart, fill with period,98,2.556e-05,2123
+periodo naive, fill random,2260,0.0107114,2261
+periodo smart, fill random,2260,2.89e-05,2261
+periodo naive, fill with period,97,0.000467,2261
+periodo smart, fill with period,97,2.602e-05,2261
+periodo naive, fill random,2407,0.0112638,2408
+periodo smart, fill random,2407,2.9075e-05,2408
+periodo naive, fill with period,97,0.0004614,2408
+periodo smart, fill with period,97,2.654e-05,2408
+periodo naive, fill random,2562,0.0118067,2564
+periodo smart, fill random,2562,2.9775e-05,2564
+periodo naive, fill with period,98,0.00045935,2564
+periodo smart, fill with period,98,2.5375e-05,2564
+periodo naive, fill random,2730,0.0123968,2730
+periodo smart, fill random,2730,3.1175e-05,2730
+periodo naive, fill with period,87,1.92833e-05,87
+periodo smart, fill with period,87,1.11e-05,87
+periodo naive, fill random,2907,0.0129742,2907
+periodo smart, fill random,2907,3.2275e-05,2907
+periodo naive, fill with period,95,0.0005368,95
+periodo smart, fill with period,95,1.11e-05,95
+periodo naive, fill random,3095,0.0123421,3095
+periodo smart, fill random,3095,3.27e-05,3095
+periodo naive, fill with period,28,6.11765e-06,28
+periodo smart, fill with period,28,2.19565e-06,28
+periodo naive, fill random,3295,0.0127732,3295
+periodo smart, fill random,3295,3.42e-05,3295
+periodo naive, fill with period,45,7.93846e-06,45
+periodo smart, fill with period,45,2.29773e-06,45
+periodo naive, fill random,3509,0.0131917,3509
+periodo smart, fill random,3509,3.4375e-05,3509
+periodo naive, fill with period,20,4.45652e-06,20
+periodo smart, fill with period,20,2.15106e-06,20
+periodo naive, fill random,3736,0.0135721,3736
+periodo smart, fill random,3736,3.6575e-05,3736
+periodo naive, fill with period,97,0.0003613,3736
+periodo smart, fill with period,97,2.7725e-05,3736
+periodo naive, fill random,3977,0.0139423,3978
+periodo smart, fill random,3977,3.43333e-05,3978
+periodo naive, fill with period,96,0.00034555,3978
+periodo smart, fill with period,96,2.84e-05,3978
+periodo naive, fill random,4236,0.0142553,4236
+periodo smart, fill random,4236,3.52667e-05,4236
+periodo naive, fill with period,98,0.00033865,4236
+periodo smart, fill with period,98,2.9125e-05,4236
+periodo naive, fill random,4511,0.0144603,4511
+periodo smart, fill random,4511,3.68333e-05,4511
+periodo naive, fill with period,54,3.49e-05,54
+periodo smart, fill with period,54,2.31818e-06,54
+periodo naive, fill random,4803,0.0146111,4803
+periodo smart, fill random,4803,3.85333e-05,4803
+periodo naive, fill with period,63,4.05333e-05,63
+periodo smart, fill with period,63,2.37442e-06,63
+periodo naive, fill random,5114,0.0147057,5114
+periodo smart, fill random,5114,3.96333e-05,5114
+periodo naive, fill with period,98,0.00029195,5114
+periodo smart, fill with period,98,3.1625e-05,5114
+periodo naive, fill random,5445,0.0146498,5446
+periodo smart, fill random,5445,4.18e-05,5446
+periodo naive, fill with period,45,7.93846e-06,45
+periodo smart, fill with period,45,2.28409e-06,45
+periodo naive, fill random,5796,0.0144902,5798
+periodo smart, fill random,5796,0.0001614,5798
+periodo naive, fill with period,96,0.00025065,5798
+periodo smart, fill with period,96,0.0001422,5798
+periodo naive, fill random,6173,0.0141712,6174
+periodo smart, fill random,6173,0.0001553,6174
+periodo naive, fill with period,19,4.22083e-06,19
+periodo smart, fill with period,19,2.15106e-06,19
+periodo naive, fill random,6573,0.0136603,6574
+periodo smart, fill random,6573,0.0001566,6574
+periodo naive, fill with period,38,6.74e-06,38
+periodo smart, fill with period,38,2.23333e-06,38
+periodo naive, fill random,6999,0.0129032,7000
+periodo smart, fill random,6999,0.00015825,7000
+periodo naive, fill with period,51,3.715e-05,51
+periodo smart, fill with period,51,2.325e-06,51
+periodo naive, fill random,7454,0.0118899,7454
+periodo smart, fill random,7454,0.0001602,7454
+periodo naive, fill with period,96,0.0001661,7454
+periodo smart, fill with period,96,0.00014555,7454
+periodo naive, fill random,7937,0.0105158,7937
+periodo smart, fill random,7937,0.0001623,7937
+periodo naive, fill with period,97,0.0001418,7937
+periodo smart, fill with period,97,0.00014665,7937
+periodo naive, fill random,8451,0.00884235,8451
+periodo smart, fill random,8451,0.0001643,8451
+periodo naive, fill with period,98,0.0001165,8451
+periodo smart, fill with period,98,0.0001479,8451
+periodo naive, fill random,8996,1.14596,8998
+periodo smart, fill random,8996,0.0001717,8998
+periodo naive, fill with period,97,0.0121903,8998
+periodo smart, fill with period,97,0.0001544,8998
+periodo naive, fill random,9581,1.19126,9581
+periodo smart, fill random,9581,0.00016965,9581
+periodo naive, fill with period,96,0.0118771,9581
+periodo smart, fill with period,96,0.0001512,9581
+periodo naive, fill random,10202,1.31016,10202
+periodo smart, fill random,10202,0.00018495,10202
+periodo naive, fill with period,97,0.012567,10202
+periodo smart, fill with period,97,0.00016125,10202
+periodo naive, fill random,10863,1.3389,10863
+periodo smart, fill random,10863,0.0001725,10863
+periodo naive, fill with period,98,0.0119934,10863
+periodo smart, fill with period,98,0.00015375,10863
+periodo naive, fill random,11567,1.46123,11567
+periodo smart, fill random,11567,0.000297,11567
+periodo naive, fill with period,98,0.0120891,11567
+periodo smart, fill with period,98,0.0002792,11567
+periodo naive, fill random,12316,1.58651,12316
+periodo smart, fill random,12316,0.00029835,12316
+periodo naive, fill with period,24,5.31579e-06,24
+periodo smart, fill with period,24,2.19348e-06,24
+periodo naive, fill random,13113,1.59809,13114
+periodo smart, fill random,13113,0.0003082,13114
+periodo naive, fill with period,98,0.0119736,13114
+periodo smart, fill with period,98,0.00028,13114
+periodo naive, fill random,13961,1.7995,13964
+periodo smart, fill random,13961,0.0003116,13964
+periodo naive, fill with period,96,0.0117567,13964
+periodo smart, fill with period,96,0.0002953,13964
+periodo naive, fill random,14868,1.82455,14868
+periodo smart, fill random,14868,0.00031235,14868
+periodo naive, fill with period,96,0.0120393,14868
+periodo smart, fill with period,96,0.00028935,14868
+periodo naive, fill random,15832,1.98623,15832
+periodo smart, fill random,15832,0.0003152,15832
+periodo naive, fill with period,97,0.0116806,15832
+periodo smart, fill with period,97,0.00028495,15832
+periodo naive, fill random,16857,2.19046,16857
+periodo smart, fill random,16857,0.00036075,16857
+periodo naive, fill with period,98,0.0132213,16857
+periodo smart, fill with period,98,0.00031965,16857
+periodo naive, fill random,17950,2.28816,17950
+periodo smart, fill random,17950,0.0003171,17950
+periodo naive, fill with period,98,0.0117857,17950
+periodo smart, fill with period,98,0.0002879,17950
+periodo naive, fill random,19113,2.3874,19113
+periodo smart, fill random,19113,0.0003928,19113
+periodo naive, fill with period,97,0.0134184,19113
+periodo smart, fill with period,97,0.0003371,19113
+periodo naive, fill random,20350,2.52136,20351
+periodo smart, fill random,20350,0.0003983,20351
+periodo naive, fill with period,97,0.0131753,20351
+periodo smart, fill with period,97,0.00033725,20351
+periodo naive, fill random,21669,2.74412,21669
+periodo smart, fill random,21669,0.0003404,21669
+periodo naive, fill with period,42,7.47143e-06,42
+periodo smart, fill with period,42,2.25333e-06,42
+periodo naive, fill random,23071,2.73424,23073
+periodo smart, fill random,23071,0.00039725,23073
+periodo naive, fill with period,97,0.0122235,23073
+periodo smart, fill with period,97,0.0003215,23073
+periodo naive, fill random,24567,2.88231,24568
+periodo smart, fill random,24567,0.00037285,24568
+periodo naive, fill with period,98,0.0121811,24568
+periodo smart, fill with period,98,0.0003365,24568
+periodo naive, fill random,26158,3.12214,26160
+periodo smart, fill random,26158,0.0003539,26160
+periodo naive, fill with period,97,0.011228,26160
+periodo smart, fill with period,97,0.00030945,26160
+periodo naive, fill random,27854,3.24823,27854
+periodo smart, fill random,27854,0.0003643,27854
+periodo naive, fill with period,98,0.0111256,27854
+periodo smart, fill with period,98,0.0003062,27854
+periodo naive, fill random,29653,3.38503,29659
+periodo smart, fill random,29653,0.00036985,29659
+periodo naive, fill with period,98,0.0110434,29659
+periodo smart, fill with period,98,0.0003096,29659
+periodo naive, fill random,31580,3.68789,31581
+periodo smart, fill random,31580,0.0003744,31581
+periodo naive, fill with period,96,0.0107558,31581
+periodo smart, fill with period,96,0.00031235,31581
+periodo naive, fill random,33627,3.90419,33627
+periodo smart, fill random,33627,0.0004452,33627
+periodo naive, fill with period,98,0.012553,33627
+periodo smart, fill with period,98,0.00036565,33627
+periodo naive, fill random,35803,4.01666,35805
+periodo smart, fill random,35803,0.0004068,35805
+periodo naive, fill with period,97,0.0106384,35805
+periodo smart, fill with period,97,0.0003191,35805
+periodo naive, fill random,38122,4.36782,38125
+periodo smart, fill random,38122,0.00041015,38125
+periodo naive, fill with period,97,0.0104713,38125
+periodo smart, fill with period,97,0.0003261,38125
+periodo naive, fill random,40594,4.51914,40595
+periodo smart, fill random,40594,0.00041645,40595
+periodo naive, fill with period,90,5.80667e-05,90
+periodo smart, fill with period,90,2.5375e-06,90
+periodo naive, fill random,43225,4.78392,43225
+periodo smart, fill random,43225,0.0004577,43225
+periodo naive, fill with period,98,0.0110766,43225
+periodo smart, fill with period,98,0.00035905,43225
+periodo naive, fill random,46025,4.63876,46025
+periodo smart, fill random,46025,0.00047235,46025
+periodo naive, fill with period,97,0.0104247,46025
+periodo smart, fill with period,97,0.00036125,46025
+periodo naive, fill random,49003,4.79879,49007
+periodo smart, fill random,49003,0.0004181,49007
+periodo naive, fill with period,56,3.71333e-05,56
+periodo smart, fill with period,56,1.57813e-06,56
+periodo naive, fill random,52182,5.00058,52182
+periodo smart, fill random,52182,0.0004906,52182
+periodo naive, fill with period,96,0.0100535,52182
+periodo smart, fill with period,96,0.0003793,52182
+periodo naive, fill random,55562,5.08494,55563
+periodo smart, fill random,55562,0.0004724,55563
+periodo naive, fill with period,98,0.0090579,55563
+periodo smart, fill with period,98,0.00034695,55563
+periodo naive, fill random,59163,5.24805,59163
+periodo smart, fill random,59163,0.0004673,59163
+periodo naive, fill with period,98,0.0088411,59163
+periodo smart, fill with period,98,0.00035295,59163
+periodo naive, fill random,62996,5.44719,62996
+periodo smart, fill random,62996,0.0004902,62996
+periodo naive, fill with period,10,1.54869e-07,10
+periodo smart, fill with period,10,3.90661e-07,10
+periodo naive, fill random,67077,5.6434,67077
+periodo smart, fill random,67077,0.0005097,67077
+periodo naive, fill with period,98,0.00840025,67077
+periodo smart, fill with period,98,0.0003675,67077
+periodo naive, fill random,71422,5.83623,71422
+periodo smart, fill random,71422,0.000504,71422
+periodo naive, fill with period,41,3.1075e-05,41
+periodo smart, fill with period,41,1.50299e-06,41
+periodo naive, fill random,76050,5.99915,76050
+periodo smart, fill random,76050,0.00054475,76050
+periodo naive, fill with period,96,0.0077471,76050
+periodo smart, fill with period,96,0.0003905,76050
+periodo naive, fill random,80977,6.15013,80977
+periodo smart, fill random,80977,0.00056195,80977
+periodo naive, fill with period,98,0.00762095,80977
+periodo smart, fill with period,98,0.00039315,80977
+periodo naive, fill random,86223,6.29026,86223
+periodo smart, fill random,86223,0.0005866,86223
+periodo naive, fill with period,97,0.00725025,86223
+periodo smart, fill with period,97,0.00043,86223
+periodo naive, fill random,91807,6.39973,91809
+periodo smart, fill random,91807,0.000566,91809
+periodo naive, fill with period,71,4.76e-05,71
+periodo smart, fill with period,71,1.62419e-06,71
+periodo naive, fill random,97755,6.49246,97757
+periodo smart, fill random,97755,0.0005874,97757
+periodo naive, fill with period,97,0.00665245,97757
+periodo smart, fill with period,97,0.00042445,97757
+periodo naive, fill random,104088,6.52067,104090
+periodo smart, fill random,104088,0.0006338,104090
+periodo naive, fill with period,20,1.70167e-05,20
+periodo smart, fill with period,20,6.07879e-07,20
+periodo naive, fill random,110832,6.52268,110834
+periodo smart, fill random,110832,0.00062635,110834
+periodo naive, fill with period,47,3.5275e-05,47
+periodo smart, fill with period,47,1.52121e-06,47
+periodo naive, fill random,118014,6.45678,118014
+periodo smart, fill random,118014,0.0007051,118014
+periodo naive, fill with period,98,0.0055736,118014
+periodo smart, fill with period,98,0.0004683,118014
+periodo naive, fill random,125659,6.33183,125660
+periodo smart, fill random,125659,0.0008507,125660
+periodo naive, fill with period,96,0.0113439,125660
+periodo smart, fill with period,96,0.0004846,125660
+periodo naive, fill random,133800,14.101,133801
+periodo smart, fill random,133800,0.00088625,133801
+periodo naive, fill with period,98,0.0101029,133801
+periodo smart, fill with period,98,0.00060575,133801
+periodo naive, fill random,142469,14.4951,142470
+periodo smart, fill random,142469,0.00088075,142470
+periodo naive, fill with period,96,0.00979695,142470
+periodo smart, fill with period,96,0.00062595,142470
+periodo naive, fill random,151700,15.2682,151700
+periodo smart, fill random,151700,0.0010111,151700
+periodo naive, fill with period,98,0.0100623,151700
+periodo smart, fill with period,98,0.0006627,151700
+periodo naive, fill random,161526,15.1144,161528
+periodo smart, fill random,161526,0.00095065,161528
+periodo naive, fill with period,9,1.43205e-07,9
+periodo smart, fill with period,9,4.012e-07,9
+periodo naive, fill random,171991,11.8178,171992
+periodo smart, fill random,171991,0.0011379,171992
+periodo naive, fill with period,97,0.00267105,171992
+periodo smart, fill with period,97,0.00076835,171992
+periodo naive, fill random,183135,16.3843,183135
+periodo smart, fill random,183135,0.0010352,183135
+periodo naive, fill with period,96,0.00895165,183135
+periodo smart, fill with period,96,0.0007261,183135
+periodo naive, fill random,195000,17.4554,195000
+periodo smart, fill random,195000,0.0013525,195000
+periodo naive, fill with period,41,0.00023275,41
+periodo smart, fill with period,41,1.071e-05,41
+periodo naive, fill random,207633,6.45391,207633
+periodo smart, fill random,207633,0.00137525,207633
+periodo naive, fill with period,96,0.0019258,207633
+periodo smart, fill with period,96,0.0009348,207633
+periodo naive, fill random,221085,29.044,221085
+periodo smart, fill random,221085,0.0011785,221085
+periodo naive, fill with period,96,0.0123262,221085
+periodo smart, fill with period,96,0.00078925,221085
+periodo naive, fill random,235408,30.8827,235408
+periodo smart, fill random,235408,0.0015893,235408
+periodo naive, fill with period,97,0.0146146,235408
+periodo smart, fill with period,97,0.0009411,235408
+periodo naive, fill random,250659,23.6442,250659
+periodo smart, fill random,250659,0.001756,250659
+periodo naive, fill with period,98,0.0024012,250659
+periodo smart, fill with period,98,0.0011649,250659
+periodo naive, fill random,266897,8.19949,266898
+periodo smart, fill random,266897,0.0014568,266898
+periodo naive, fill with period,96,0.00515405,266898
+periodo smart, fill with period,96,0.00101125,266898
+periodo naive, fill random,284190,12.4962,284190
+periodo smart, fill random,284190,0.00166865,284190
+periodo naive, fill with period,97,0.00475565,284190
+periodo smart, fill with period,97,0.00106805,284190
+periodo naive, fill random,302600,11.8115,302601
+periodo smart, fill random,302600,0.00162225,302601
+periodo naive, fill with period,2,6.36768e-08,2
+periodo smart, fill with period,2,1.027e-05,2
+periodo naive, fill random,322206,17.5877,322206
+periodo smart, fill random,322206,0.00189745,322206
+periodo naive, fill with period,51,3.96e-05,51
+periodo smart, fill with period,51,2.47805e-06,51
+periodo naive, fill random,343080,13.261,343080
+periodo smart, fill random,343080,0.0019889,343080
+periodo naive, fill with period,98,0.0043106,343080
+periodo smart, fill with period,98,0.00127775,343080
+periodo naive, fill random,365307,29.012,365307
+periodo smart, fill random,365307,0.00213225,365307
+periodo naive, fill with period,98,0.00473475,365307
+periodo smart, fill with period,98,0.00137995,365307
+periodo naive, fill random,388974,16.7752,388974
+periodo smart, fill random,388974,0.00214205,388974
+periodo naive, fill with period,96,0.00521665,388974
+periodo smart, fill with period,96,0.00146855,388974
+periodo naive, fill random,414174,19.3336,414174
+periodo smart, fill random,414174,0.00224035,414174
+periodo naive, fill with period,98,0.00533445,414174
+periodo smart, fill with period,98,0.001544,414174
+periodo naive, fill random,441006,21.6193,441006
+periodo smart, fill random,441006,0.0025481,441006
+periodo naive, fill with period,98,0.0055023,441006
+periodo smart, fill with period,98,0.0016359,441006
+periodo naive, fill random,469575,24.4326,469577
+periodo smart, fill random,469575,0.0025517,469577
+periodo naive, fill with period,97,0.0057937,469577
+periodo smart, fill with period,97,0.00173905,469577
+periodo naive, fill random,499999,28.0612,500000
+periodo smart, fill random,499999,0.00288605,500000
+periodo naive, fill with period,61,4.03e-05,61
+periodo smart, fill with period,61,1.58889e-06,61
+periodo naive, fill random,998,0.0056119,1000
+periodo smart, fill random,998,2.434e-05,1000
+periodo naive, fill with period,96,0.00053975,1000
+periodo smart, fill with period,96,2.222e-05,1000
+periodo naive, fill random,1064,0.0060338,1064
+periodo smart, fill random,1064,2.512e-05,1064
+periodo naive, fill with period,97,0.00054475,1064
+periodo smart, fill with period,97,2.332e-05,1064
+periodo naive, fill random,1133,0.0061028,1133
+periodo smart, fill random,1133,2.544e-05,1133
+periodo naive, fill with period,97,0.0005297,1133
+periodo smart, fill with period,97,2.332e-05,1133
+periodo naive, fill random,1207,0.00646735,1207
+periodo smart, fill random,1207,2.518e-05,1207
+periodo naive, fill with period,86,3.70333e-05,86
+periodo smart, fill with period,86,1.83273e-06,86
+periodo naive, fill random,1284,0.00686025,1285
+periodo smart, fill random,1284,2.56e-05,1285
+periodo naive, fill with period,96,0.00051875,1285
+periodo smart, fill with period,96,2.33e-05,1285
+periodo naive, fill random,1368,0.0072707,1368
+periodo smart, fill random,1368,2.58e-05,1368
+periodo naive, fill with period,97,0.0005218,1368
+periodo smart, fill with period,97,2.364e-05,1368
+periodo naive, fill random,1457,0.00769935,1457
+periodo smart, fill random,1457,2.525e-05,1457
+periodo naive, fill with period,96,0.0005137,1457
+periodo smart, fill with period,96,2.392e-05,1457
+periodo naive, fill random,1551,0.00817215,1551
+periodo smart, fill random,1551,2.62e-05,1551
+periodo naive, fill with period,96,0.0005113,1551
+periodo smart, fill with period,96,2.368e-05,1551
+periodo naive, fill random,1652,0.0086283,1652
+periodo smart, fill random,1652,2.5175e-05,1652
+periodo naive, fill with period,96,0.00050815,1652
+periodo smart, fill with period,96,2.398e-05,1652
+periodo naive, fill random,1758,0.008736,1759
+periodo smart, fill random,1758,2.6225e-05,1759
+periodo naive, fill with period,97,0.0004887,1759
+periodo smart, fill with period,97,2.438e-05,1759
+periodo naive, fill random,1871,0.0091949,1873
+periodo smart, fill random,1871,2.63e-05,1873
+periodo naive, fill with period,96,0.0004785,1873
+periodo smart, fill with period,96,2.472e-05,1873
+periodo naive, fill random,1994,0.0096958,1994
+periodo smart, fill random,1994,2.74e-05,1994
+periodo naive, fill with period,96,0.00047405,1994
+periodo smart, fill with period,96,2.514e-05,1994
+periodo naive, fill random,2123,0.0102,2123
+periodo smart, fill random,2123,2.8e-05,2123
+periodo naive, fill with period,97,0.00047285,2123
+periodo smart, fill with period,97,2.556e-05,2123
+periodo naive, fill random,2261,0.0107058,2261
+periodo smart, fill random,2261,2.86e-05,2261
+periodo naive, fill with period,97,0.0004669,2261
+periodo smart, fill with period,97,2.602e-05,2261
+periodo naive, fill random,2407,0.0113273,2408
+periodo smart, fill random,2407,2.985e-05,2408
+periodo naive, fill with period,42,1.44571e-05,42
+periodo smart, fill with period,42,9e-07,42
+periodo naive, fill random,2562,0.011802,2564
+periodo smart, fill random,2562,3.085e-05,2564
+periodo naive, fill with period,97,0.0004571,2564
+periodo smart, fill with period,97,2.535e-05,2564
+periodo naive, fill random,2730,0.0123961,2730
+periodo smart, fill random,2730,3.1375e-05,2730
+periodo naive, fill with period,96,0.00044375,2730
+periodo smart, fill with period,96,2.5875e-05,2730
+periodo naive, fill random,2907,0.0129794,2907
+periodo smart, fill random,2907,3.16e-05,2907
+periodo naive, fill with period,96,0.0004369,2907
+periodo smart, fill with period,96,2.6475e-05,2907
+periodo naive, fill random,3095,0.0135522,3095
+periodo smart, fill random,3095,3.285e-05,3095
+periodo naive, fill with period,89,0.00050675,89
+periodo smart, fill with period,89,1.102e-05,89
+periodo naive, fill random,3294,0.014165,3295
+periodo smart, fill random,3294,3.4375e-05,3295
+periodo naive, fill with period,4,9.71845e-08,4
+periodo smart, fill with period,4,2.9645e-07,4
+periodo naive, fill random,3509,0.0131808,3509
+periodo smart, fill random,3509,3.3725e-05,3509
+periodo naive, fill with period,96,0.0003692,3509
+periodo smart, fill with period,96,2.705e-05,3509
+periodo naive, fill random,3736,0.0135716,3736
+periodo smart, fill random,3736,3.5875e-05,3736
+periodo naive, fill with period,17,1.49e-05,17
+periodo smart, fill with period,17,6e-07,17
+periodo naive, fill random,3977,0.0139443,3978
+periodo smart, fill random,3977,3.41e-05,3978
+periodo naive, fill with period,55,3.62e-05,55
+periodo smart, fill with period,55,1.54923e-06,55
+periodo naive, fill random,4236,0.0142338,4236
+periodo smart, fill random,4236,3.40333e-05,4236
+periodo naive, fill with period,32,2.588e-05,32
+periodo smart, fill with period,32,1.42817e-06,32
+periodo naive, fill random,4509,0.0144513,4511
+periodo smart, fill random,4509,3.61667e-05,4511
+periodo naive, fill with period,96,0.0003174,4511
+periodo smart, fill with period,96,2.99e-05,4511
+periodo naive, fill random,4802,0.0146032,4803
+periodo smart, fill random,4802,3.74e-05,4803
+periodo naive, fill with period,13,1.89225e-07,13
+periodo smart, fill with period,13,4.19247e-07,13
+periodo naive, fill random,5112,0.0147125,5114
+periodo smart, fill random,5112,4.03333e-05,5114
+periodo naive, fill with period,96,0.00028965,5114
+periodo smart, fill with period,96,3.1625e-05,5114
+periodo naive, fill random,5446,0.0146371,5446
+periodo smart, fill random,5446,4.07333e-05,5446
+periodo naive, fill with period,70,4.56667e-05,70
+periodo smart, fill with period,70,1.60317e-06,70
+periodo naive, fill random,5798,0.0145096,5798
+periodo smart, fill random,5798,0.0001888,5798
+periodo naive, fill with period,84,5.37333e-05,84
+periodo smart, fill with period,84,2.40476e-06,84
+periodo naive, fill random,6174,0.0141764,6174
+periodo smart, fill random,6174,0.0001691,6174
+periodo naive, fill with period,10,1.5463e-07,10
+periodo smart, fill with period,10,3.91016e-07,10
+periodo naive, fill random,6574,0.013664,6574
+periodo smart, fill random,6574,0.00016555,6574
+periodo naive, fill with period,97,0.0002198,6574
+periodo smart, fill with period,97,0.00015415,6574
+periodo naive, fill random,7000,0.0128747,7000
+periodo smart, fill random,7000,0.0001606,7000
+periodo naive, fill with period,98,0.0001927,7000
+periodo smart, fill with period,98,0.0001451,7000
+periodo naive, fill random,7453,0.0118809,7454
+periodo smart, fill random,7453,0.00016175,7454
+periodo naive, fill with period,96,0.0001659,7454
+periodo smart, fill with period,96,0.0001458,7454
+periodo naive, fill random,7937,0.0105151,7937
+periodo smart, fill random,7937,0.00015995,7937
+periodo naive, fill with period,98,0.00014315,7937
+periodo smart, fill with period,98,0.00014665,7937
+periodo naive, fill random,8451,0.0088283,8451
+periodo smart, fill random,8451,0.0001652,8451
+periodo naive, fill with period,98,0.00011635,8451
+periodo smart, fill with period,98,0.00014795,8451
+periodo naive, fill random,8997,1.14021,8998
+periodo smart, fill random,8997,0.00019005,8998
+periodo naive, fill with period,97,0.0139084,8998
+periodo smart, fill with period,97,0.00017685,8998
+periodo naive, fill random,9580,1.23654,9581
+periodo smart, fill random,9580,0.0001707,9581
+periodo naive, fill with period,98,0.012141,9581
+periodo smart, fill with period,98,0.0001522,9581
+periodo naive, fill random,10202,1.31653,10202
+periodo smart, fill random,10202,0.0001739,10202
+periodo naive, fill with period,97,0.0119573,10202
+periodo smart, fill with period,97,0.000152,10202
+periodo naive, fill random,10863,1.40722,10863
+periodo smart, fill random,10863,0.0002033,10863
+periodo naive, fill with period,28,2.59e-05,28
+periodo smart, fill with period,28,7.26812e-07,28
+periodo naive, fill random,11566,1.55093,11567
+periodo smart, fill random,11566,0.000295,11567
+periodo naive, fill with period,92,5.89667e-05,92
+periodo smart, fill with period,92,2.46098e-06,92
+periodo naive, fill random,12314,1.56612,12316
+periodo smart, fill random,12314,0.0003284,12316
+periodo naive, fill with period,97,0.0128104,12316
+periodo smart, fill with period,97,0.0002964,12316
+periodo naive, fill random,13114,1.67543,13114
+periodo smart, fill random,13114,0.00034755,13114
+periodo naive, fill with period,98,0.0138115,13114
+periodo smart, fill with period,98,0.00032285,13114
+periodo naive, fill random,13964,1.88334,13964
+periodo smart, fill random,13964,0.0003635,13964
+periodo naive, fill with period,97,0.0137851,13964
+periodo smart, fill with period,97,0.0003247,13964
+periodo naive, fill random,14868,1.92231,14868
+periodo smart, fill random,14868,0.0003595,14868
+periodo naive, fill with period,97,0.0136244,14868
+periodo smart, fill with period,97,0.00033445,14868
+periodo naive, fill random,15831,2.0275,15832
+periodo smart, fill random,15831,0.0003172,15832
+periodo naive, fill with period,98,0.0117211,15832
+periodo smart, fill with period,98,0.0002845,15832
+periodo naive, fill random,16857,2.04768,16857
+periodo smart, fill random,16857,0.0003722,16857
+periodo naive, fill with period,96,0.0125613,16857
+periodo smart, fill with period,96,0.0003159,16857
+periodo naive, fill random,17946,2.25141,17950
+periodo smart, fill random,17946,0.0003395,17950
+periodo naive, fill with period,98,0.0128083,17950
+periodo smart, fill with period,98,0.00031475,17950
+periodo naive, fill random,19113,2.37097,19113
+periodo smart, fill random,19113,0.00038375,19113
+periodo naive, fill with period,96,0.0131353,19113
+periodo smart, fill with period,96,0.00033445,19113
+periodo naive, fill random,20350,2.52267,20351
+periodo smart, fill random,20350,0.00034485,20351
+periodo naive, fill with period,97,0.0116797,20351
+periodo smart, fill with period,97,0.0002972,20351
+periodo naive, fill random,21669,2.67314,21669
+periodo smart, fill random,21669,0.0003393,21669
+periodo naive, fill with period,75,4.91667e-05,75
+periodo smart, fill with period,75,1.64426e-06,75
+periodo naive, fill random,23072,2.84684,23073
+periodo smart, fill random,23072,0.0003461,23073
+periodo naive, fill with period,97,0.0110591,23073
+periodo smart, fill with period,97,0.00029245,23073
+periodo naive, fill random,24568,2.84141,24568
+periodo smart, fill random,24568,0.00038015,24568
+periodo naive, fill with period,97,0.0121816,24568
+periodo smart, fill with period,97,0.0003219,24568
+periodo naive, fill random,26160,3.09755,26160
+periodo smart, fill random,26160,0.00036555,26160
+periodo naive, fill with period,48,3.72e-05,48
+periodo smart, fill with period,48,1.57031e-06,48
+periodo naive, fill random,27854,3.31042,27854
+periodo smart, fill random,27854,0.0003952,27854
+periodo naive, fill with period,97,0.012456,27854
+periodo smart, fill with period,97,0.00034585,27854
+periodo naive, fill random,29659,3.39086,29659
+periodo smart, fill random,29659,0.0003912,29659
+periodo naive, fill with period,98,0.0118897,29659
+periodo smart, fill with period,98,0.0003364,29659
+periodo naive, fill random,31580,3.6644,31581
+periodo smart, fill random,31580,0.00041065,31581
+periodo naive, fill with period,96,0.0121311,31581
+periodo smart, fill with period,96,0.0003544,31581
+periodo naive, fill random,33627,3.84808,33627
+periodo smart, fill random,33627,0.00039515,33627
+periodo naive, fill with period,97,0.0112217,33627
+periodo smart, fill with period,97,0.00033345,33627
+periodo naive, fill random,35805,3.95854,35805
+periodo smart, fill random,35805,0.00038175,35805
+periodo naive, fill with period,96,0.0104063,35805
+periodo smart, fill with period,96,0.0003189,35805
+periodo naive, fill random,38125,4.33067,38125
+periodo smart, fill random,38125,0.0004053,38125
+periodo naive, fill with period,34,2.615e-05,34
+periodo smart, fill with period,34,1.45942e-06,34
+periodo naive, fill random,40595,4.55166,40595
+periodo smart, fill random,40595,0.0004198,40595
+periodo naive, fill with period,96,0.0103777,40595
+periodo smart, fill with period,96,0.000333,40595
+periodo naive, fill random,43225,4.75322,43225
+periodo smart, fill random,43225,0.0004454,43225
+periodo naive, fill with period,15,2.32251e-07,15
+periodo smart, fill with period,15,7.39706e-07,15
+periodo naive, fill random,46024,4.65418,46025
+periodo smart, fill random,46024,0.00047705,46025
+periodo naive, fill with period,96,0.0107091,46025
+periodo smart, fill with period,96,0.00037295,46025
+periodo naive, fill random,49006,4.82977,49007
+periodo smart, fill random,49006,0.00042805,49007
+periodo naive, fill with period,97,0.0095611,49007
+periodo smart, fill with period,97,0.0003421,49007
+periodo naive, fill random,52181,4.87782,52182
+periodo smart, fill random,52181,0.0004443,52182
+periodo naive, fill with period,97,0.00960895,52182
+periodo smart, fill with period,97,0.00035825,52182
+periodo naive, fill random,55563,5.05029,55563
+periodo smart, fill random,55563,0.00043645,55563
+periodo naive, fill with period,98,0.00907495,55563
+periodo smart, fill with period,98,0.0003461,55563
+periodo naive, fill random,59163,5.24346,59163
+periodo smart, fill random,59163,0.0004757,59163
+periodo naive, fill with period,98,0.0092581,59163
+periodo smart, fill with period,98,0.00046685,59163
+periodo naive, fill random,62995,5.44177,62996
+periodo smart, fill random,62995,0.00049665,62996
+periodo naive, fill with period,96,0.0084476,62996
+periodo smart, fill with period,96,0.0003599,62996
+periodo naive, fill random,67077,5.64702,67077
+periodo smart, fill random,67077,0.0005075,67077
+periodo naive, fill with period,98,0.0083953,67077
+periodo smart, fill with period,98,0.0003674,67077
+periodo naive, fill random,71422,5.82307,71422
+periodo smart, fill random,71422,0.00049825,71422
+periodo naive, fill with period,97,0.0080602,71422
+periodo smart, fill with period,97,0.00037515,71422
+periodo naive, fill random,76049,5.99802,76050
+periodo smart, fill random,76049,0.0005456,76050
+periodo naive, fill with period,98,0.00794,76050
+periodo smart, fill with period,98,0.0003842,76050
+periodo naive, fill random,80976,6.14966,80977
+periodo smart, fill random,80976,0.0005335,80977
+periodo naive, fill with period,96,0.00748625,80977
+periodo smart, fill with period,96,0.00039325,80977
+periodo naive, fill random,86223,6.28387,86223
+periodo smart, fill random,86223,0.0005699,86223
+periodo naive, fill with period,97,0.0072651,86223
+periodo smart, fill with period,97,0.00040295,86223
+periodo naive, fill random,91809,6.39856,91809
+periodo smart, fill random,91809,0.0005617,91809
+periodo naive, fill with period,96,0.0068918,91809
+periodo smart, fill with period,96,0.00041315,91809
+periodo naive, fill random,97757,6.48527,97757
+periodo smart, fill random,97757,0.0005813,97757
+periodo naive, fill with period,96,0.00656575,97757
+periodo smart, fill with period,96,0.0004247,97757
+periodo naive, fill random,104090,6.57156,104090
+periodo smart, fill random,104090,0.00061595,104090
+periodo naive, fill with period,97,0.00631965,104090
+periodo smart, fill with period,97,0.000436,104090
+periodo naive, fill random,110834,6.53812,110834
+periodo smart, fill random,110834,0.00067735,110834
+periodo naive, fill with period,98,0.00598865,110834
+periodo smart, fill with period,98,0.00044845,110834
+periodo naive, fill random,118013,6.46297,118014
+periodo smart, fill random,118013,0.0006583,118014
+periodo naive, fill with period,97,0.00552995,118014
+periodo smart, fill with period,97,0.0004621,118014
+periodo naive, fill random,125660,6.33925,125660
+periodo smart, fill random,125660,0.0007919,125660
+periodo naive, fill with period,80,0.00044865,80
+periodo smart, fill with period,80,1.92e-05,80
+periodo naive, fill random,133800,13.8805,133801
+periodo smart, fill random,133800,0.0010154,133801
+periodo naive, fill with period,98,0.0112589,133801
+periodo smart, fill with period,98,0.00066345,133801
+periodo naive, fill random,142468,14.3975,142470
+periodo smart, fill random,142468,0.0009837,142470
+periodo naive, fill with period,78,0.00047235,78
+periodo smart, fill with period,78,1.15111e-05,78
+periodo naive, fill random,151699,15.0162,151700
+periodo smart, fill random,151699,0.0009612,151700
+periodo naive, fill with period,98,0.00975365,151700
+periodo smart, fill with period,98,0.0006458,151700
+periodo naive, fill random,161527,15.1656,161528
+periodo smart, fill random,161527,0.00098205,161528
+periodo naive, fill with period,97,0.0093935,161528
+periodo smart, fill with period,97,0.0006691,161528
+periodo naive, fill random,171992,11.814,171992
+periodo smart, fill random,171992,0.0012087,171992
+periodo naive, fill with period,36,2.9925e-05,36
+periodo smart, fill with period,36,2.24e-06,36
+periodo naive, fill random,183135,3.36554,183135
+periodo smart, fill random,183135,0.00111455,183135
+periodo naive, fill with period,97,0.0112435,183135
+periodo smart, fill with period,97,0.00065085,183135
+periodo naive, fill random,195000,17.021,195000
+periodo smart, fill random,195000,0.00128235,195000
+periodo naive, fill with period,98,0.0064524,195000
+periodo smart, fill with period,98,0.00086615,195000
+periodo naive, fill random,207631,3.37511,207633
+periodo smart, fill random,207631,0.00127095,207633
+periodo naive, fill with period,97,0.0123395,207633
+periodo smart, fill with period,97,0.0007482,207633
+periodo naive, fill random,221084,28.8147,221085
+periodo smart, fill random,221084,0.00139445,221085
+periodo naive, fill with period,96,0.0143608,221085
+periodo smart, fill with period,96,0.00090015,221085
+periodo naive, fill random,235408,30.6608,235408
+periodo smart, fill random,235408,0.0012159,235408
+periodo naive, fill with period,25,0.0001408,25
+periodo smart, fill with period,25,6.22981e-07,25
+periodo naive, fill random,250659,22.3052,250659
+periodo smart, fill random,250659,0.00181,250659
+periodo naive, fill with period,1,4.87105e-08,1
+periodo smart, fill with period,1,9.01802e-07,1
+periodo naive, fill random,266896,8.17738,266898
+periodo smart, fill random,266896,0.00159415,266898
+periodo naive, fill with period,98,0.00524625,266898
+periodo smart, fill with period,98,0.00100625,266898
+periodo naive, fill random,284190,12.5658,284190
+periodo smart, fill random,284190,0.0016737,284190
+periodo naive, fill with period,97,0.0047741,284190
+periodo smart, fill with period,97,0.0010732,284190
+periodo naive, fill random,302601,11.7806,302601
+periodo smart, fill random,302601,0.001731,302601
+periodo naive, fill with period,96,0.00423395,302601
+periodo smart, fill with period,96,0.0011382,302601
+periodo naive, fill random,322205,17.5851,322206
+periodo smart, fill random,322205,0.00193205,322206
+periodo naive, fill with period,72,5.57667e-05,72
+periodo smart, fill with period,72,2.57949e-06,72
+periodo naive, fill random,343080,13.2804,343080
+periodo smart, fill random,343080,0.00197815,343080
+periodo naive, fill with period,97,0.00432915,343080
+periodo smart, fill with period,97,0.00126555,343080
+periodo naive, fill random,365307,28.9806,365307
+periodo smart, fill random,365307,0.00195485,365307
+periodo naive, fill with period,98,0.0047657,365307
+periodo smart, fill with period,98,0.00137605,365307
+periodo naive, fill random,388971,16.661,388974
+periodo smart, fill random,388971,0.00226255,388974
+periodo naive, fill with period,96,0.0048017,388974
+periodo smart, fill with period,96,0.001454,388974
+periodo naive, fill random,414174,19.4248,414174
+periodo smart, fill random,414174,0.00236675,414174
+periodo naive, fill with period,97,0.00526975,414174
+periodo smart, fill with period,97,0.00155145,414174
+periodo naive, fill random,441005,21.6532,441006
+periodo smart, fill random,441005,0.0024561,441006
+periodo naive, fill with period,96,0.0054358,441006
+periodo smart, fill with period,96,0.0016509,441006
+periodo naive, fill random,469577,24.312,469577
+periodo smart, fill random,469577,0.00270865,469577
+periodo naive, fill with period,97,0.0058366,469577
+periodo smart, fill with period,97,0.0017317,469577
+periodo naive, fill random,500000,28.0677,500000
+periodo smart, fill random,500000,0.0028555,500000
+periodo naive, fill with period,98,0.0065067,500000
+periodo smart, fill with period,98,0.001847,500000
