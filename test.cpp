@@ -11,7 +11,7 @@ using namespace std;
 using namespace std::chrono;
 
 #define MIN 1000
-#define MAX 50000
+#define MAX 500000
 #define ITERATIONS 100
 double getResolution()
 {
@@ -72,12 +72,12 @@ void testMany(Test tests[], int nTest, Generator generators[], int nGen)
 {
 
     std::ofstream myfile;
-    myfile.open("example3.csv");
+    myfile.open("example4.csv");
     myfile << "label,string,result,time,size\n";
     Pair p = spDist(MIN, MAX, ITERATIONS - 1);
     double a = p.x;
     double b = p.y;
-    for (int t = 0; t < 2; t++)
+    for (int t = 0; t < 8; t++)
     {
         cout << t;
         for (int z = 0; z < ITERATIONS; z++)
