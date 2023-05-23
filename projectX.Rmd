@@ -6,7 +6,7 @@ date: "2023-05-20"
 
 ```{r setup, include=FALSE}
 library('tidyverse')
-example <- read.csv("~/universita/algoritmi/c/project/example2.csv")
+example <- read.csv("~/universita/algoritmi/c/project/example3.csv")
 ```
 
 
