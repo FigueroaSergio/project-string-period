@@ -7,7 +7,8 @@ date: "2023-05-20"
 ```{r setup, include=FALSE}
 library('tidyverse')
 
-example <- read.csv("~/universita/algoritmi/c/project/example3.csv")
+# example <- read.csv("~/universita/algoritmi/c/project/example4.csv")
+example <- read.csv("/Users/francescomarchetto/Documents/UNIVERSITA/SecondoAnno/DSA/lab/progetto/project-string-period/example4.csv")
 
 ```
 
@@ -58,6 +59,24 @@ example %>%
   mutate(ti= log(time), s= log(size))%>%
   ggplot(aes(s,ti, color=label))+ 
   geom_smooth()+geom_point()
+
+example %>%
+  filter(grepl("fill worst case", string)) %>%
+  mutate(time= time, size= size)%>%
+  ggplot(aes(log(size),log(time), color=label))+ 
+  geom_smooth()
+
+example %>%
+  filter(grepl("fill worst case", string)) %>%
+  mutate(time= time, size= size)%>%
+  ggplot(aes(size,time, color=label))+ 
+  geom_smooth()
+
+example %>%
+  filter(grepl("fill worst case", string)) %>%
+  mutate(time= time, size= size)%>%
+  ggplot(aes(size,time, color=label))+ 
+  geom_point()
 ```
 
 
