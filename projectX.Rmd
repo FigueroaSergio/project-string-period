@@ -6,17 +6,51 @@ date: "2023-05-20"
 
 ```{r setup, include=FALSE}
 library('tidyverse')
-example <- read.csv("/Users/francescomarchetto/Documents/UNIVERSITA/SecondoAnno/DSA/lab/progetto/project-string-period/example4.csv")
+
+example <- read.csv("~/universita/algoritmi/c/project/example3.csv")
+
 ```
 
 
 ```{r cars}
 tail(example)
+example=example%>%mutate(time=as.numeric(time), size = as.numeric(size),result=as.numeric(result))
 ```
 
 ## Including Plots
 
 You can also embed plots, for example:
+
+
+
+```{r}
+graph<- function(dt,field,title){
+dt %>%
+  filter(grepl(field, string)) %>%
+  mutate(ti= log(time))%>%
+   group_by(label, size) %>%
+  summarise(t = mean(ti)) %>%
+  ggplot(aes(log(size),t, color=label))+ 
+  geom_smooth(se = FALSE)+labs(y='log(time)', title=title, colour = "Algoritmo")
+}
+graph(example,'fill with period','Fill with period')
+graph(example,'fill random','Fill random')
+```
+
+
+
+```{r}
+graph2<- function(dt,field,title){
+  return( dt %>%
+  filter(grepl(field, string)) %>%
+   group_by(label, size) %>%
+  summarise(t = mean(time)) %>%
+  ggplot(aes(size,t, color=label))+geom_smooth( se = FALSE) +labs(y='time', title=title, colour= "Algoritmo"))
+}
+graph2(example,'fill with period','Fill with period')
+graph2(example,'fill random','Fill random')
+
+```
 
 ```{r pressure, echo=FALSE}
 example %>%
@@ -24,149 +58,37 @@ example %>%
   mutate(ti= log(time), s= log(size))%>%
   ggplot(aes(s,ti, color=label))+ 
   geom_smooth()+geom_point()
-
-  
-
 ```
+
 
 ```{r}
 example %>%
-  filter(grepl("fill with period", string)) %>%
+  filter(grepl("fill random", string)) %>%
   mutate(ti= log(time))%>%
    group_by(label, size) %>%
   summarise(t = mean(ti)) %>%
   ggplot(aes(log(size),t, color=label))+ 
-  geom_smooth()
+  geom_smooth()+geom_point()
 ```
+
 
 ```{r}
 example %>%
   filter(grepl("fill random", string)) %>%
   mutate(t= log(time), s= log(size))%>%
   ggplot(aes(s,t, color=label))+ 
+  geom_point(size=2)+
   geom_smooth()
 ```
-
-
 ```{r}
-
 example%>%
-  mutate(id=row_number()) %>%
-  ggplot(aes(id,size))+
-  geom_point()
-```
-
-
----
-title: "periodo"
-output: html_document
-date: "2023-05-20"
----
-
-```{r setup, include=FALSE}
-library('tidyverse')
-library(dplyr)
-library(ggplot2)
-
-example <- read.csv("/Users/francescomarchetto/Documents/UNIVERSITA/SecondoAnno/DSA/lab/progetto/project-string-period/example.csv")
-```
-
-
-```{r cars}
-tail(example)
-
-grouped_data <- aggregate(cbind(time) ~ string + size, data = example, FUN = mean)
-regression_model <- lm(time ~ size, data = grouped_data)
-ggplot(grouped_data, aes(x = log(size), y = log(time), color = string)) +
-  geom_point() +
-  geom_smooth(method = "lm", se = FALSE) +
-  labs(x = "Size", y = "Time")
-
-filtered_data <- subset(example, label %in% c("periodo smart", "periodo naive"))
-
-# Traccia la linea di regressione per entrambe le modalità
-regression_model <- lm(time ~ size, data = filtered_data)
-
-ggplot(filtered_data, aes(x = log(size), y = log(time), color = label)) +
-  geom_point() +
-  geom_smooth(method = "lm", se = FALSE) +
-  labs(x = "Size", y = "Time")
-
-
-# Filtra il dataset per la modalità "period smart"
-filtered_data_smart <- subset(example, string == "fill random")
-
-# Traccia la linea di regressione per la modalità "period smart"
-regression_model_smart <- lm(time ~ size, data = filtered_data_smart)
-
-ggplot(filtered_data_smart, aes(x = size, y = time, color = label)) +
-  geom_point() +
-  geom_smooth(method = "lm", se = FALSE) +
-  labs(x = "Size", y = "Time") +
-  ggtitle("Regression - periodo smart")
-
-# Filtra il dataset per la modalità "period naive"
-filtered_data_naive <- subset(example, label == "periodo naive")
-
-# Traccia la linea di regressione per la modalità "period naive"
-regression_model_naive <- lm(time ~ size, data = filtered_data_naive)
-
-ggplot(filtered_data_naive, aes(x = size, y = time)) +
-  geom_point() +
-  geom_smooth(method = "lm", se = FALSE) +
-  labs(x = "Size", y = "Time") +
-  ggtitle("Regression - period naive")
-
-
-ggplot(example, aes(x = log(size), y = log(time), color = label)) +
-  geom_point() +
-  geom_smooth(method = "lm", se = FALSE) +
-  labs(x = "Size", y = "Time") +
-  facet_wrap(string ~ .) +
-  ggtitle("Regression by Fill with Period Smart and Period Naive")
-
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-example %>%
   filter(grepl("fill random", string)) %>%
-  mutate(ti= log(time), s= size)%>%
-  ggplot(aes(s,ti, color=label))+ 
-  geom_smooth()
- # group_by(label, s) %>%
- # summarise(t = mean(ti)) %>%
-  
-
+  ggplot(aes(result))+
+  geom_histogram()
 ```
 ```{r}
-example%>%  filter(grepl("fill with period", string)) %>%
-  filter(grepl("periodo naive", label)) %>%
-  ggplot(aes(size,time, group=size))+
-  geom_boxplot( )
+example%>%
+  filter(grepl("fill with period", string)) %>%
+  ggplot(aes(result))+
+  geom_histogram()
 ```
-
-```{r}
-example %>%
-  filter(grepl("fill random", string)) %>%
-  mutate(t= log(time), s= log(size))%>%
-  ggplot(aes(s,t, color=label))+ 
-  geom_point(size=2)
-```
-
-
-```{r}
-
-
-
-x = lm(example$time~example$size, data = example)
-yo = example[example$string == "fill random"]
-plot(example, pch = 16, col = "blue") #Plot the results
-abline(x)
-
-```
-
-

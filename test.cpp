@@ -41,7 +41,7 @@ void printResult(Result *r)
 Result takeTime(int (*func)(string str), string str, double T_min)
 {
     Result r;
-    int it = 1;
+    int it = 0;
     double s;
 
     steady_clock::time_point start = steady_clock::now();
