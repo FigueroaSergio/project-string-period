@@ -16,6 +16,8 @@ char *createString(int size);
 
 void fillRandom(char str[], int size);
 
+void worstCase(char str[], int size);
+
 void fillWithPeriod(char str[], int size);
 
 #endif

@@ -42,6 +42,15 @@ void fillRandom(char str[], int size)
     }
 };
 
+void worstCase(char str[], int size)
+{
+    for (int i = 0; i < size - 1; i++)
+    {
+        str[i] = 'a';
+    }
+    str[size - 1] = 'c';
+};
+
 void fillWithPeriod(char str[], int size)
 {
     int min = (int)'a', max = (int)'c';
